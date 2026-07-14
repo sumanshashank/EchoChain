@@ -1,0 +1,801 @@
+claim_id,sku,laptop_model,component_name,claim_date,failure_symptom,days_in_service_at_failure,repair_cost_usd,resolution
+WC-00001,WEX-FAN-0271,WorkHorse EliteBook X,Cooling Fan,2026-04-13,Fan not spinning,966,179.64,Refunded
+WC-00002,N2-KB-0061,NimbusPad 2-in-1,Keyboard Assembly,2024-06-12,Sticky keys,537,148.04,Refunded
+WC-00003,T1-FAN-0154,TravelLite 12,Cooling Fan,2024-04-02,Fan not spinning,527,145.31,Repaired
+WC-00004,T1-FAN-0067,TravelLite 12,Cooling Fan,2024-12-27,Loud grinding noise,61,95.19,Pending
+WC-00005,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2024-01-09,Loud grinding noise,451,53.17,Refunded
+WC-00006,WEX-CAM-0219,WorkHorse EliteBook X,Webcam Module,2026-02-21,Blurry/no image,384,27.89,Replaced
+WC-00007,T1G-DSP-0172,TitanForce 15 Gaming,Display Panel,2024-07-18,Screen flicker,576,97.25,Pending
+WC-00008,AP1-FAN-0156,AeroBook Pro 14,Cooling Fan,2026-02-21,Overheating,296,250.21,Replaced
+WC-00009,T1-MB-0041,TravelLite 12,Motherboard,2024-04-09,Overheating / thermal shutdown,392,241.55,Refunded
+WC-00010,T1-BAT-0169,TravelLite 12,Battery,2025-01-09,Won't hold charge,213,186.7,Pending
+WC-00011,T1-FAN-0154,TravelLite 12,Cooling Fan,2024-02-16,Loud grinding noise,150,218.37,Pending
+WC-00012,AA1-BAT-0159,AeroBook Air 13,Battery,2024-06-01,Battery not detected,924,161.92,Refunded
+WC-00013,T1-BAT-0278,TravelLite 12,Battery,2024-11-22,Won't hold charge,412,297.33,Refunded
+WC-00014,T1G-SSD-0181,TitanForce 15 Gaming,SSD Storage,2025-06-03,Drive not detected,555,154.61,Refunded
+WC-00015,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2024-01-18,Fan not spinning,349,207.03,Pending
+WC-00016,WEX-KB-0176,WorkHorse EliteBook X,Keyboard Assembly,2026-03-26,Backlight failure,903,211.09,Replaced
+WC-00017,T1-KB-0182,TravelLite 12,Keyboard Assembly,2024-09-28,Backlight failure,811,292.04,Repaired
+WC-00018,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-08-20,Fan not spinning,184,164.41,Pending
+WC-00019,N2-BAT-0046,NimbusPad 2-in-1,Battery,2025-11-28,Won't hold charge,42,178.18,Replaced
+WC-00020,N2-KB-0061,NimbusPad 2-in-1,Keyboard Assembly,2025-03-27,Sticky keys,438,58.16,Repaired
+WC-00021,AA1-MB-0125,AeroBook Air 13,Motherboard,2026-03-04,Overheating / thermal shutdown,903,256.79,Replaced
+WC-00022,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2025-06-15,Loud grinding noise,584,107.64,Pending
+WC-00023,N2-RAM-0161,NimbusPad 2-in-1,RAM Module,2024-11-17,Blue screen / crashes,480,274.96,Refunded
+WC-00024,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2025-11-23,No display output,634,152.99,Repaired
+WC-00025,WEX-FAN-0087,WorkHorse EliteBook X,Cooling Fan,2024-11-01,Loud grinding noise,974,292.28,Refunded
+WC-00026,T1-BAT-0235,TravelLite 12,Battery,2025-12-22,Won't hold charge,716,215.92,Refunded
+WC-00027,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2025-07-27,Overheating,290,97.02,Pending
+WC-00028,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2025-02-08,Fan not spinning,987,235.32,Repaired
+WC-00029,N2-SSD-0089,NimbusPad 2-in-1,SSD Storage,2024-10-21,Drive not detected,90,113.71,Pending
+WC-00030,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2026-02-04,Fan not spinning,229,72.59,Refunded
+WC-00031,AA1-DSP-0280,AeroBook Air 13,Display Panel,2025-12-13,Screen flicker,150,46.13,Repaired
+WC-00032,T1-SSD-0077,TravelLite 12,SSD Storage,2025-11-16,Drive not detected,241,196.81,Replaced
+WC-00033,T1-DSP-0034,TravelLite 12,Display Panel,2024-12-04,Backlight bleed,493,43.66,Repaired
+WC-00034,T1-FAN-0004,TravelLite 12,Cooling Fan,2025-07-17,Loud grinding noise,426,201.07,Pending
+WC-00035,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2024-07-23,Fan not spinning,338,96.34,Replaced
+WC-00036,T1-KB-0272,TravelLite 12,Keyboard Assembly,2024-04-01,Backlight failure,597,81.18,Replaced
+WC-00037,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2024-06-28,Fan not spinning,913,253.72,Replaced
+WC-00038,AP1-MB-0300,AeroBook Pro 14,Motherboard,2025-02-10,Overheating / thermal shutdown,200,281.93,Refunded
+WC-00039,AA1-MB-0264,AeroBook Air 13,Motherboard,2024-01-10,No display output,591,186.79,Refunded
+WC-00040,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2025-10-18,Overheating,546,155.77,Repaired
+WC-00041,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2025-04-24,Fan not spinning,207,245.51,Refunded
+WC-00042,AA1-RAM-0052,AeroBook Air 13,RAM Module,2025-04-14,Memory not detected,745,68.07,Refunded
+WC-00043,T1-FAN-0238,TravelLite 12,Cooling Fan,2025-08-04,Overheating,785,70.05,Pending
+WC-00044,AP1-FAN-0250,AeroBook Pro 14,Cooling Fan,2025-06-11,Fan not spinning,98,129.24,Replaced
+WC-00045,AA1-KB-0059,AeroBook Air 13,Keyboard Assembly,2024-05-23,Sticky keys,341,281.71,Replaced
+WC-00046,AA1-BAT-0084,AeroBook Air 13,Battery,2024-08-29,Swelling detected,781,91.09,Refunded
+WC-00047,AP1-FAN-0091,AeroBook Pro 14,Cooling Fan,2026-01-10,Overheating,21,89.54,Refunded
+WC-00048,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2024-03-04,Backlight failure,131,147.64,Repaired
+WC-00049,AA1-RAM-0124,AeroBook Air 13,RAM Module,2025-05-29,Memory not detected,716,48.46,Refunded
+WC-00050,AA1-KB-0113,AeroBook Air 13,Keyboard Assembly,2024-08-14,Keys unresponsive,990,53.07,Repaired
+WC-00051,T1-SSD-0141,TravelLite 12,SSD Storage,2025-09-12,Data corruption,435,215.05,Pending
+WC-00052,WEX-MB-0229,WorkHorse EliteBook X,Motherboard,2026-04-01,Random shutdowns,790,85.53,Replaced
+WC-00053,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2025-06-24,Battery not detected,380,37.26,Replaced
+WC-00054,T1-BAT-0018,TravelLite 12,Battery,2025-07-14,Battery not detected,217,178.22,Repaired
+WC-00055,N2-RAM-0053,NimbusPad 2-in-1,RAM Module,2026-05-24,Memory not detected,129,208.88,Pending
+WC-00056,AA1-RAM-0031,AeroBook Air 13,RAM Module,2025-06-06,Memory not detected,838,30.86,Repaired
+WC-00057,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2025-04-12,Overheating,69,174.26,Refunded
+WC-00058,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-02-09,Fan not spinning,846,15.86,Repaired
+WC-00059,WEX-DSP-0174,WorkHorse EliteBook X,Display Panel,2024-02-16,Screen flicker,362,214.61,Replaced
+WC-00060,N2-DSP-0281,NimbusPad 2-in-1,Display Panel,2024-03-11,Screen flicker,42,96.82,Repaired
+WC-00061,T1G-DSP-0234,TitanForce 15 Gaming,Display Panel,2026-02-23,Backlight bleed,756,199.08,Pending
+WC-00062,T1-BAT-0116,TravelLite 12,Battery,2025-01-26,Swelling detected,900,276.38,Pending
+WC-00063,T1-BAT-0116,TravelLite 12,Battery,2025-11-30,Battery not detected,905,168.7,Refunded
+WC-00064,AP1-FAN-0039,AeroBook Pro 14,Cooling Fan,2025-07-04,Fan not spinning,551,51.29,Repaired
+WC-00065,T1G-BAT-0252,TitanForce 15 Gaming,Battery,2026-02-13,Won't hold charge,315,146.96,Pending
+WC-00066,T1-FAN-0163,TravelLite 12,Cooling Fan,2026-04-23,Loud grinding noise,263,146.28,Repaired
+WC-00067,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2026-06-15,Overheating,793,47.16,Pending
+WC-00068,AA1-BAT-0187,AeroBook Air 13,Battery,2024-01-17,Won't hold charge,221,34.18,Replaced
+WC-00069,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2025-11-19,Won't power on,260,226.05,Pending
+WC-00070,N2-MB-0137,NimbusPad 2-in-1,Motherboard,2025-07-06,Random shutdowns,782,261.16,Replaced
+WC-00071,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2024-10-23,Random shutdowns,845,276.17,Refunded
+WC-00072,T1-FAN-0173,TravelLite 12,Cooling Fan,2026-03-02,Overheating,848,106.39,Refunded
+WC-00073,AA1-MB-0264,AeroBook Air 13,Motherboard,2025-11-07,Random shutdowns,433,100.64,Replaced
+WC-00074,T1-MB-0168,TravelLite 12,Motherboard,2025-08-28,Random shutdowns,651,208.44,Pending
+WC-00075,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2024-12-18,Overheating,697,123.63,Refunded
+WC-00076,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2025-02-22,Random shutdowns,317,122.29,Pending
+WC-00077,T1-SSD-0077,TravelLite 12,SSD Storage,2024-08-18,Data corruption,888,216.66,Pending
+WC-00078,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2025-07-29,Fan not spinning,436,173.83,Repaired
+WC-00079,T1-MB-0120,TravelLite 12,Motherboard,2024-09-18,Random shutdowns,348,199.31,Pending
+WC-00080,AP1-SSD-0257,AeroBook Pro 14,SSD Storage,2024-04-04,Drive not detected,751,251.38,Replaced
+WC-00081,AP1-FAN-0085,AeroBook Pro 14,Cooling Fan,2025-11-20,Overheating,627,26.27,Replaced
+WC-00082,T1-DSP-0060,TravelLite 12,Display Panel,2026-02-18,Backlight bleed,751,206.36,Repaired
+WC-00083,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2026-06-09,Fan not spinning,320,287.75,Replaced
+WC-00084,WEX-FAN-0065,WorkHorse EliteBook X,Cooling Fan,2024-07-13,Overheating,130,227.86,Pending
+WC-00085,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2025-12-13,Overheating,730,73.29,Repaired
+WC-00086,T1-MB-0168,TravelLite 12,Motherboard,2026-03-05,No display output,399,147.88,Refunded
+WC-00087,N2-BAT-0092,NimbusPad 2-in-1,Battery,2025-01-03,Battery not detected,913,156.72,Replaced
+WC-00088,T1-BAT-0242,TravelLite 12,Battery,2026-01-09,Swelling detected,789,254.32,Repaired
+WC-00089,T1-CAM-0114,TravelLite 12,Webcam Module,2025-02-27,Camera not detected,586,261.26,Repaired
+WC-00090,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2025-07-20,Overheating,603,220.2,Refunded
+WC-00091,T1G-DSP-0048,TitanForce 15 Gaming,Display Panel,2024-12-03,Dead pixels,398,177.39,Repaired
+WC-00092,T1-FAN-0154,TravelLite 12,Cooling Fan,2025-11-01,Overheating,355,88.34,Pending
+WC-00093,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2025-10-19,Overheating,512,146.34,Refunded
+WC-00094,AP1-BAT-0055,AeroBook Pro 14,Battery,2026-01-07,Battery not detected,510,67.45,Replaced
+WC-00095,N2-RAM-0161,NimbusPad 2-in-1,RAM Module,2026-05-09,Blue screen / crashes,977,248.13,Replaced
+WC-00096,T1G-FAN-0233,TitanForce 15 Gaming,Cooling Fan,2025-02-26,Loud grinding noise,872,194.75,Replaced
+WC-00097,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2024-01-10,Loud grinding noise,527,144.96,Replaced
+WC-00098,AA1-BAT-0187,AeroBook Air 13,Battery,2025-11-13,Battery not detected,944,152.71,Pending
+WC-00099,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2025-06-28,Overheating,431,18.38,Refunded
+WC-00100,T1-FAN-0163,TravelLite 12,Cooling Fan,2024-10-20,Loud grinding noise,524,246.75,Pending
+WC-00101,AA1-CAM-0243,AeroBook Air 13,Webcam Module,2024-07-02,Camera not detected,950,42.45,Repaired
+WC-00102,T1-SSD-0077,TravelLite 12,SSD Storage,2025-09-26,Drive not detected,268,247.34,Refunded
+WC-00103,T1G-DSP-0240,TitanForce 15 Gaming,Display Panel,2024-03-21,Screen flicker,992,130.72,Repaired
+WC-00104,T1G-SSD-0299,TitanForce 15 Gaming,SSD Storage,2024-08-19,Data corruption,710,251.0,Replaced
+WC-00105,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2026-05-28,Overheating,787,24.03,Pending
+WC-00106,T1-BAT-0117,TravelLite 12,Battery,2025-07-19,Swelling detected,67,196.47,Repaired
+WC-00107,AA1-SSD-0027,AeroBook Air 13,SSD Storage,2026-05-15,Data corruption,670,238.55,Replaced
+WC-00108,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2024-02-13,Loud grinding noise,226,271.86,Pending
+WC-00109,AP1-FAN-0085,AeroBook Pro 14,Cooling Fan,2024-03-17,Overheating,957,94.91,Replaced
+WC-00110,AA1-SSD-0057,AeroBook Air 13,SSD Storage,2026-05-20,Data corruption,26,289.02,Repaired
+WC-00111,WEX-MB-0229,WorkHorse EliteBook X,Motherboard,2025-12-30,Overheating / thermal shutdown,961,36.93,Repaired
+WC-00112,AA1-SSD-0170,AeroBook Air 13,SSD Storage,2025-08-03,Data corruption,703,270.51,Refunded
+WC-00113,N2-CAM-0118,NimbusPad 2-in-1,Webcam Module,2026-01-27,Camera not detected,819,296.72,Replaced
+WC-00114,T1-FAN-0154,TravelLite 12,Cooling Fan,2024-12-20,Loud grinding noise,110,139.57,Replaced
+WC-00115,WEX-CAM-0104,WorkHorse EliteBook X,Webcam Module,2026-02-26,Blurry/no image,802,108.02,Refunded
+WC-00116,N2-KB-0237,NimbusPad 2-in-1,Keyboard Assembly,2025-04-06,Sticky keys,243,116.41,Pending
+WC-00117,AP1-BAT-0136,AeroBook Pro 14,Battery,2025-11-27,Battery not detected,686,123.32,Refunded
+WC-00118,T1G-BAT-0241,TitanForce 15 Gaming,Battery,2025-12-31,Won't hold charge,94,91.37,Pending
+WC-00119,T1-RAM-0213,TravelLite 12,RAM Module,2025-10-11,Blue screen / crashes,767,126.04,Refunded
+WC-00120,T1-MB-0037,TravelLite 12,Motherboard,2024-01-06,No display output,465,117.58,Refunded
+WC-00121,AA1-SSD-0035,AeroBook Air 13,SSD Storage,2024-03-30,Boot failure,451,142.92,Pending
+WC-00122,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2024-04-01,Data corruption,577,41.52,Refunded
+WC-00123,T1G-RAM-0260,TitanForce 15 Gaming,RAM Module,2024-01-13,Memory not detected,433,125.52,Replaced
+WC-00124,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-07-26,Loud grinding noise,595,163.51,Pending
+WC-00125,AP1-BAT-0055,AeroBook Pro 14,Battery,2024-10-02,Swelling detected,284,155.54,Replaced
+WC-00126,AP1-BAT-0055,AeroBook Pro 14,Battery,2024-10-09,Swelling detected,316,153.01,Replaced
+WC-00127,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2024-09-09,Overheating,650,156.3,Repaired
+WC-00128,AA1-CAM-0143,AeroBook Air 13,Webcam Module,2024-05-18,Blurry/no image,16,285.41,Refunded
+WC-00129,AA1-BAT-0254,AeroBook Air 13,Battery,2025-01-24,Swelling detected,460,110.4,Repaired
+WC-00130,AP1-FAN-0091,AeroBook Pro 14,Cooling Fan,2025-09-09,Overheating,215,151.52,Repaired
+WC-00131,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2024-11-22,Fan not spinning,762,213.06,Pending
+WC-00132,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2026-03-11,Loud grinding noise,343,122.18,Pending
+WC-00133,WEX-KB-0111,WorkHorse EliteBook X,Keyboard Assembly,2025-07-31,Keys unresponsive,616,299.22,Repaired
+WC-00134,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2025-07-17,Won't power on,985,222.26,Repaired
+WC-00135,N2-MB-0137,NimbusPad 2-in-1,Motherboard,2024-10-25,Won't power on,848,256.62,Pending
+WC-00136,AP1-RAM-0204,AeroBook Pro 14,RAM Module,2024-05-22,Memory not detected,257,87.01,Repaired
+WC-00137,AP1-CAM-0215,AeroBook Pro 14,Webcam Module,2026-03-19,Blurry/no image,85,142.98,Pending
+WC-00138,WEX-KB-0176,WorkHorse EliteBook X,Keyboard Assembly,2025-07-01,Backlight failure,955,277.31,Pending
+WC-00139,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2026-03-20,No display output,728,270.22,Replaced
+WC-00140,T1-MB-0037,TravelLite 12,Motherboard,2024-09-11,No display output,180,199.39,Replaced
+WC-00141,AA1-SSD-0170,AeroBook Air 13,SSD Storage,2025-10-22,Drive not detected,672,128.89,Refunded
+WC-00142,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2025-03-16,Loud grinding noise,20,43.1,Repaired
+WC-00143,T1-RAM-0157,TravelLite 12,RAM Module,2025-06-15,Blue screen / crashes,466,121.62,Pending
+WC-00144,T1-BAT-0235,TravelLite 12,Battery,2025-08-25,Battery not detected,522,57.96,Replaced
+WC-00145,AA1-KB-0151,AeroBook Air 13,Keyboard Assembly,2024-10-29,Sticky keys,952,289.09,Replaced
+WC-00146,AP1-KB-0251,AeroBook Pro 14,Keyboard Assembly,2026-01-17,Keys unresponsive,366,103.89,Pending
+WC-00147,N2-KB-0237,NimbusPad 2-in-1,Keyboard Assembly,2025-06-17,Sticky keys,366,150.71,Pending
+WC-00148,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-04-08,Fan not spinning,78,100.58,Replaced
+WC-00149,AP1-FAN-0006,AeroBook Pro 14,Cooling Fan,2024-12-17,Overheating,121,207.98,Repaired
+WC-00150,T1-BAT-0278,TravelLite 12,Battery,2026-01-28,Won't hold charge,538,64.72,Repaired
+WC-00151,T1-KB-0101,TravelLite 12,Keyboard Assembly,2025-03-12,Sticky keys,247,242.36,Repaired
+WC-00152,AA1-KB-0059,AeroBook Air 13,Keyboard Assembly,2025-11-04,Sticky keys,415,23.32,Repaired
+WC-00153,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2025-03-15,Overheating / thermal shutdown,14,215.85,Repaired
+WC-00154,WEX-FAN-0087,WorkHorse EliteBook X,Cooling Fan,2025-12-21,Loud grinding noise,601,44.0,Repaired
+WC-00155,T1-CAM-0112,TravelLite 12,Webcam Module,2024-07-20,Blurry/no image,126,89.77,Pending
+WC-00156,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2025-10-16,Swelling detected,621,125.76,Pending
+WC-00157,N2-RAM-0177,NimbusPad 2-in-1,RAM Module,2024-12-22,Memory not detected,875,145.49,Repaired
+WC-00158,N2-BAT-0246,NimbusPad 2-in-1,Battery,2025-12-23,Swelling detected,950,190.13,Replaced
+WC-00159,T1-CAM-0203,TravelLite 12,Webcam Module,2024-11-16,Camera not detected,254,102.03,Repaired
+WC-00160,T1-BAT-0116,TravelLite 12,Battery,2024-05-24,Battery not detected,407,134.2,Repaired
+WC-00161,T1-FAN-0173,TravelLite 12,Cooling Fan,2025-03-09,Loud grinding noise,508,196.12,Repaired
+WC-00162,T1-MB-0168,TravelLite 12,Motherboard,2025-05-16,No display output,153,68.32,Pending
+WC-00163,AP1-BAT-0188,AeroBook Pro 14,Battery,2026-06-05,Swelling detected,984,17.73,Repaired
+WC-00164,T1-FAN-0063,TravelLite 12,Cooling Fan,2025-01-28,Overheating,527,201.12,Pending
+WC-00165,T1-FAN-0207,TravelLite 12,Cooling Fan,2025-03-01,Overheating,870,141.5,Repaired
+WC-00166,T1-CAM-0026,TravelLite 12,Webcam Module,2024-02-01,Camera not detected,309,24.32,Repaired
+WC-00167,N2-DSP-0164,NimbusPad 2-in-1,Display Panel,2024-06-21,Screen flicker,589,226.62,Pending
+WC-00168,T1G-SSD-0167,TitanForce 15 Gaming,SSD Storage,2024-04-25,Drive not detected,126,91.35,Refunded
+WC-00169,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2026-02-13,Won't power on,788,219.91,Repaired
+WC-00170,T1G-FAN-0298,TitanForce 15 Gaming,Cooling Fan,2024-04-14,Overheating,859,201.3,Repaired
+WC-00171,T1-FAN-0090,TravelLite 12,Cooling Fan,2024-02-03,Fan not spinning,279,114.34,Replaced
+WC-00172,N2-MB-0137,NimbusPad 2-in-1,Motherboard,2024-04-30,Random shutdowns,224,246.05,Refunded
+WC-00173,AP1-MB-0259,AeroBook Pro 14,Motherboard,2025-09-16,Overheating / thermal shutdown,179,190.6,Repaired
+WC-00174,N2-BAT-0246,NimbusPad 2-in-1,Battery,2026-04-04,Won't hold charge,593,114.98,Refunded
+WC-00175,T1-KB-0182,TravelLite 12,Keyboard Assembly,2024-06-21,Sticky keys,730,98.4,Refunded
+WC-00176,AA1-RAM-0289,AeroBook Air 13,RAM Module,2025-06-10,Blue screen / crashes,148,289.39,Pending
+WC-00177,T1G-KB-0276,TitanForce 15 Gaming,Keyboard Assembly,2024-10-10,Backlight failure,139,214.91,Repaired
+WC-00178,T1-MB-0078,TravelLite 12,Motherboard,2025-12-29,No display output,858,85.55,Pending
+WC-00179,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2025-08-14,No display output,652,133.05,Pending
+WC-00180,AA1-MB-0023,AeroBook Air 13,Motherboard,2026-03-24,Won't power on,422,161.95,Refunded
+WC-00181,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2026-06-17,Sticky keys,475,285.82,Refunded
+WC-00182,T1-KB-0175,TravelLite 12,Keyboard Assembly,2026-06-08,Backlight failure,105,223.32,Pending
+WC-00183,N2-FAN-0193,NimbusPad 2-in-1,Cooling Fan,2025-12-15,Fan not spinning,880,33.05,Pending
+WC-00184,T1-FAN-0067,TravelLite 12,Cooling Fan,2025-03-15,Loud grinding noise,516,91.53,Refunded
+WC-00185,N2-BAT-0103,NimbusPad 2-in-1,Battery,2025-08-14,Won't hold charge,589,257.94,Refunded
+WC-00186,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2026-02-19,Loud grinding noise,57,43.38,Pending
+WC-00187,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2026-05-28,Loud grinding noise,461,145.11,Pending
+WC-00188,T1G-BAT-0064,TitanForce 15 Gaming,Battery,2025-12-06,Won't hold charge,913,200.25,Repaired
+WC-00189,AA1-MB-0264,AeroBook Air 13,Motherboard,2026-06-16,No display output,105,201.56,Refunded
+WC-00190,T1-CAM-0026,TravelLite 12,Webcam Module,2025-11-11,Camera not detected,63,127.96,Refunded
+WC-00191,T1-FAN-0218,TravelLite 12,Cooling Fan,2026-02-12,Loud grinding noise,449,201.81,Replaced
+WC-00192,T1-DSP-0001,TravelLite 12,Display Panel,2025-05-03,Dead pixels,145,184.2,Pending
+WC-00193,T1-FAN-0004,TravelLite 12,Cooling Fan,2025-12-13,Fan not spinning,846,49.37,Pending
+WC-00194,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2025-05-04,Keys unresponsive,244,124.17,Replaced
+WC-00195,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2025-01-11,Data corruption,150,124.08,Repaired
+WC-00196,T1G-BAT-0194,TitanForce 15 Gaming,Battery,2025-11-24,Won't hold charge,80,166.19,Replaced
+WC-00197,WEX-SSD-0185,WorkHorse EliteBook X,SSD Storage,2024-06-17,Data corruption,369,220.89,Repaired
+WC-00198,T1G-KB-0276,TitanForce 15 Gaming,Keyboard Assembly,2025-09-22,Backlight failure,463,260.09,Replaced
+WC-00199,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2024-05-23,Loud grinding noise,613,223.05,Refunded
+WC-00200,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2024-11-18,Loud grinding noise,263,93.94,Replaced
+WC-00201,T1-MB-0078,TravelLite 12,Motherboard,2025-09-07,No display output,807,283.26,Replaced
+WC-00202,AP1-SSD-0257,AeroBook Pro 14,SSD Storage,2025-11-05,Data corruption,220,162.56,Repaired
+WC-00203,T1-RAM-0226,TravelLite 12,RAM Module,2024-10-29,Blue screen / crashes,812,270.91,Repaired
+WC-00204,T1G-KB-0153,TitanForce 15 Gaming,Keyboard Assembly,2024-04-25,Keys unresponsive,521,196.85,Replaced
+WC-00205,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2024-01-13,Swelling detected,966,105.19,Pending
+WC-00206,AP1-MB-0259,AeroBook Pro 14,Motherboard,2025-08-05,Overheating / thermal shutdown,384,170.71,Repaired
+WC-00207,N2-CAM-0232,NimbusPad 2-in-1,Webcam Module,2026-02-27,Camera not detected,27,182.4,Replaced
+WC-00208,AA1-BAT-0084,AeroBook Air 13,Battery,2024-02-10,Won't hold charge,981,239.95,Refunded
+WC-00209,T1-DSP-0190,TravelLite 12,Display Panel,2025-05-28,Screen flicker,443,215.02,Replaced
+WC-00210,T1G-BAT-0194,TitanForce 15 Gaming,Battery,2025-07-04,Battery not detected,166,94.08,Refunded
+WC-00211,T1G-SSD-0024,TitanForce 15 Gaming,SSD Storage,2024-07-27,Boot failure,559,108.12,Replaced
+WC-00212,AA1-CAM-0093,AeroBook Air 13,Webcam Module,2025-03-23,Camera not detected,69,84.68,Pending
+WC-00213,AP1-FAN-0039,AeroBook Pro 14,Cooling Fan,2025-09-18,Overheating,66,103.15,Repaired
+WC-00214,AP1-FAN-0039,AeroBook Pro 14,Cooling Fan,2025-12-25,Loud grinding noise,728,18.23,Pending
+WC-00215,AA1-RAM-0289,AeroBook Air 13,RAM Module,2025-06-19,Memory not detected,180,120.98,Refunded
+WC-00216,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2024-04-30,Loud grinding noise,353,245.03,Refunded
+WC-00217,N2-RAM-0161,NimbusPad 2-in-1,RAM Module,2024-09-26,Blue screen / crashes,518,144.73,Refunded
+WC-00218,AA1-BAT-0017,AeroBook Air 13,Battery,2026-05-29,Battery not detected,180,119.79,Refunded
+WC-00219,T1-BAT-0235,TravelLite 12,Battery,2025-08-10,Battery not detected,750,47.87,Replaced
+WC-00220,AP1-SSD-0014,AeroBook Pro 14,SSD Storage,2026-06-02,Boot failure,260,28.1,Refunded
+WC-00221,T1-BAT-0117,TravelLite 12,Battery,2024-06-02,Won't hold charge,963,288.7,Replaced
+WC-00222,T1-MB-0168,TravelLite 12,Motherboard,2026-01-01,Overheating / thermal shutdown,239,106.71,Pending
+WC-00223,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2024-11-23,Fan not spinning,855,37.2,Refunded
+WC-00224,AP1-FAN-0039,AeroBook Pro 14,Cooling Fan,2025-11-20,Loud grinding noise,193,78.61,Replaced
+WC-00225,T1G-DSP-0290,TitanForce 15 Gaming,Display Panel,2024-03-11,Screen flicker,896,95.46,Refunded
+WC-00226,AP1-MB-0098,AeroBook Pro 14,Motherboard,2025-07-20,Overheating / thermal shutdown,18,120.14,Refunded
+WC-00227,AA1-SSD-0170,AeroBook Air 13,SSD Storage,2024-11-07,Drive not detected,647,84.14,Refunded
+WC-00228,N2-KB-0179,NimbusPad 2-in-1,Keyboard Assembly,2025-05-20,Keys unresponsive,760,271.63,Repaired
+WC-00229,N2-BAT-0046,NimbusPad 2-in-1,Battery,2025-02-23,Won't hold charge,248,169.34,Replaced
+WC-00230,AA1-BAT-0288,AeroBook Air 13,Battery,2024-01-02,Battery not detected,395,256.97,Refunded
+WC-00231,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2025-06-26,Boot failure,439,155.23,Replaced
+WC-00232,AP1-MB-0296,AeroBook Pro 14,Motherboard,2024-05-25,No display output,105,27.51,Repaired
+WC-00233,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2025-06-16,Fan not spinning,727,270.24,Pending
+WC-00234,AP1-MB-0296,AeroBook Pro 14,Motherboard,2024-03-27,Won't power on,527,53.05,Pending
+WC-00235,AA1-MB-0023,AeroBook Air 13,Motherboard,2025-08-04,Won't power on,455,203.8,Repaired
+WC-00236,T1-BAT-0074,TravelLite 12,Battery,2024-09-24,Swelling detected,958,243.23,Refunded
+WC-00237,AP1-BAT-0096,AeroBook Pro 14,Battery,2024-10-05,Won't hold charge,86,283.91,Repaired
+WC-00238,T1-FAN-0236,TravelLite 12,Cooling Fan,2025-08-21,Loud grinding noise,169,45.11,Pending
+WC-00239,WEX-RAM-0146,WorkHorse EliteBook X,RAM Module,2025-02-20,Blue screen / crashes,558,117.11,Repaired
+WC-00240,AA1-RAM-0140,AeroBook Air 13,RAM Module,2025-04-19,Memory not detected,882,49.18,Repaired
+WC-00241,AA1-RAM-0244,AeroBook Air 13,RAM Module,2024-11-07,Blue screen / crashes,230,253.24,Refunded
+WC-00242,N2-BAT-0046,NimbusPad 2-in-1,Battery,2025-12-29,Won't hold charge,374,127.93,Replaced
+WC-00243,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2024-09-23,Random shutdowns,41,286.35,Pending
+WC-00244,T1-MB-0168,TravelLite 12,Motherboard,2025-07-17,Random shutdowns,106,146.68,Repaired
+WC-00245,T1-CAM-0040,TravelLite 12,Webcam Module,2024-03-04,Camera not detected,143,71.47,Pending
+WC-00246,AP1-SSD-0115,AeroBook Pro 14,SSD Storage,2025-10-07,Drive not detected,96,180.96,Refunded
+WC-00247,T1G-KB-0276,TitanForce 15 Gaming,Keyboard Assembly,2024-03-17,Keys unresponsive,76,71.36,Pending
+WC-00248,WEX-CAM-0245,WorkHorse EliteBook X,Webcam Module,2024-04-04,Blurry/no image,135,27.17,Pending
+WC-00249,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2025-08-10,Fan not spinning,851,221.46,Pending
+WC-00250,N2-KB-0010,NimbusPad 2-in-1,Keyboard Assembly,2025-11-30,Sticky keys,186,115.87,Repaired
+WC-00251,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2025-04-01,Loud grinding noise,45,190.02,Repaired
+WC-00252,T1G-FAN-0195,TitanForce 15 Gaming,Cooling Fan,2025-05-25,Fan not spinning,913,171.95,Replaced
+WC-00253,WEX-SSD-0029,WorkHorse EliteBook X,SSD Storage,2025-01-27,Boot failure,439,71.85,Repaired
+WC-00254,AP1-CAM-0191,AeroBook Pro 14,Webcam Module,2026-04-01,Camera not detected,401,237.85,Refunded
+WC-00255,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2026-03-11,Fan not spinning,362,275.11,Refunded
+WC-00256,T1-MB-0120,TravelLite 12,Motherboard,2024-07-03,Won't power on,336,185.18,Replaced
+WC-00257,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2026-03-08,Fan not spinning,69,245.47,Pending
+WC-00258,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2026-02-24,Battery not detected,248,292.58,Replaced
+WC-00259,T1-MB-0078,TravelLite 12,Motherboard,2024-09-03,No display output,556,247.64,Replaced
+WC-00260,T1G-FAN-0233,TitanForce 15 Gaming,Cooling Fan,2024-08-12,Overheating,876,295.06,Pending
+WC-00261,AA1-CAM-0109,AeroBook Air 13,Webcam Module,2026-05-09,Camera not detected,190,82.42,Refunded
+WC-00262,AA1-CAM-0243,AeroBook Air 13,Webcam Module,2025-12-15,Blurry/no image,945,183.6,Refunded
+WC-00263,AA1-BAT-0288,AeroBook Air 13,Battery,2025-07-31,Won't hold charge,586,285.29,Pending
+WC-00264,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2024-06-28,Overheating / thermal shutdown,48,40.72,Repaired
+WC-00265,AA1-MB-0184,AeroBook Air 13,Motherboard,2024-01-21,Overheating / thermal shutdown,10,109.54,Repaired
+WC-00266,AA1-CAM-0243,AeroBook Air 13,Webcam Module,2024-12-14,Camera not detected,950,243.69,Refunded
+WC-00267,T1-BAT-0018,TravelLite 12,Battery,2024-05-31,Battery not detected,731,276.41,Replaced
+WC-00268,WEX-CAM-0256,WorkHorse EliteBook X,Webcam Module,2026-05-31,Blurry/no image,993,35.67,Pending
+WC-00269,N2-RAM-0177,NimbusPad 2-in-1,RAM Module,2024-12-10,Memory not detected,340,53.89,Repaired
+WC-00270,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2025-03-23,Overheating,993,153.85,Refunded
+WC-00271,AA1-FAN-0056,AeroBook Air 13,Cooling Fan,2025-07-29,Overheating,920,279.72,Refunded
+WC-00272,T1-RAM-0070,TravelLite 12,RAM Module,2025-08-26,Blue screen / crashes,397,102.44,Refunded
+WC-00273,T1-MB-0041,TravelLite 12,Motherboard,2026-01-16,Won't power on,981,215.07,Pending
+WC-00274,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2026-02-28,Overheating,43,66.89,Refunded
+WC-00275,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2025-09-18,Loud grinding noise,664,176.18,Pending
+WC-00276,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2026-02-02,Won't power on,253,113.84,Refunded
+WC-00277,AP1-BAT-0055,AeroBook Pro 14,Battery,2024-03-31,Battery not detected,696,197.14,Refunded
+WC-00278,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-09-28,Random shutdowns,265,212.56,Refunded
+WC-00279,AA1-RAM-0082,AeroBook Air 13,RAM Module,2024-04-20,Blue screen / crashes,59,124.99,Pending
+WC-00280,T1G-RAM-0295,TitanForce 15 Gaming,RAM Module,2025-02-27,Memory not detected,912,122.93,Pending
+WC-00281,AA1-SSD-0035,AeroBook Air 13,SSD Storage,2025-05-05,Drive not detected,676,231.1,Repaired
+WC-00282,AA1-RAM-0052,AeroBook Air 13,RAM Module,2024-03-16,Blue screen / crashes,311,20.72,Refunded
+WC-00283,AA1-BAT-0288,AeroBook Air 13,Battery,2024-03-16,Swelling detected,184,268.06,Repaired
+WC-00284,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2025-07-14,Loud grinding noise,356,184.3,Pending
+WC-00285,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2025-03-17,Overheating,178,188.09,Pending
+WC-00286,AP1-BAT-0051,AeroBook Pro 14,Battery,2024-04-13,Swelling detected,220,292.7,Pending
+WC-00287,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2026-01-09,No display output,686,95.23,Repaired
+WC-00288,AP1-FAN-0033,AeroBook Pro 14,Cooling Fan,2025-02-06,Overheating,572,254.36,Repaired
+WC-00289,AA1-BAT-0017,AeroBook Air 13,Battery,2024-01-04,Swelling detected,99,98.95,Pending
+WC-00290,T1-FAN-0063,TravelLite 12,Cooling Fan,2024-01-27,Loud grinding noise,184,196.88,Replaced
+WC-00291,WEX-FAN-0148,WorkHorse EliteBook X,Cooling Fan,2024-04-28,Fan not spinning,813,128.28,Pending
+WC-00292,AP1-FAN-0269,AeroBook Pro 14,Cooling Fan,2024-09-28,Loud grinding noise,667,170.08,Repaired
+WC-00293,AP1-SSD-0115,AeroBook Pro 14,SSD Storage,2025-01-25,Data corruption,201,142.05,Refunded
+WC-00294,N2-MB-0137,NimbusPad 2-in-1,Motherboard,2024-09-26,Random shutdowns,867,91.54,Replaced
+WC-00295,WEX-DSP-0047,WorkHorse EliteBook X,Display Panel,2025-12-14,Backlight bleed,109,39.43,Refunded
+WC-00296,AA1-RAM-0244,AeroBook Air 13,RAM Module,2025-02-27,Blue screen / crashes,576,32.38,Pending
+WC-00297,WEX-BAT-0249,WorkHorse EliteBook X,Battery,2025-03-04,Battery not detected,713,262.06,Pending
+WC-00298,T1-FAN-0173,TravelLite 12,Cooling Fan,2024-08-29,Fan not spinning,316,37.5,Replaced
+WC-00299,T1-FAN-0154,TravelLite 12,Cooling Fan,2025-06-13,Overheating,703,295.09,Repaired
+WC-00300,AP1-FAN-0039,AeroBook Pro 14,Cooling Fan,2026-02-14,Fan not spinning,187,285.48,Repaired
+WC-00301,AP1-MB-0296,AeroBook Pro 14,Motherboard,2026-04-07,Random shutdowns,139,27.16,Replaced
+WC-00302,T1G-FAN-0298,TitanForce 15 Gaming,Cooling Fan,2025-03-21,Loud grinding noise,852,193.76,Refunded
+WC-00303,N2-RAM-0097,NimbusPad 2-in-1,RAM Module,2026-01-14,Blue screen / crashes,99,125.61,Pending
+WC-00304,T1-MB-0168,TravelLite 12,Motherboard,2026-05-27,No display output,542,145.57,Replaced
+WC-00305,T1-FAN-0238,TravelLite 12,Cooling Fan,2025-09-30,Overheating,545,237.78,Replaced
+WC-00306,AP1-SSD-0126,AeroBook Pro 14,SSD Storage,2024-05-31,Drive not detected,612,181.06,Replaced
+WC-00307,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2025-07-30,Loud grinding noise,814,96.54,Refunded
+WC-00308,AA1-MB-0264,AeroBook Air 13,Motherboard,2024-09-27,Overheating / thermal shutdown,680,153.39,Pending
+WC-00309,T1G-MB-0013,TitanForce 15 Gaming,Motherboard,2024-10-09,Overheating / thermal shutdown,157,191.2,Pending
+WC-00310,T1G-MB-0013,TitanForce 15 Gaming,Motherboard,2026-06-19,No display output,717,82.71,Pending
+WC-00311,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2025-01-16,Loud grinding noise,355,247.95,Refunded
+WC-00312,N2-RAM-0094,NimbusPad 2-in-1,RAM Module,2026-05-13,Memory not detected,888,213.41,Replaced
+WC-00313,AP1-MB-0296,AeroBook Pro 14,Motherboard,2024-08-21,Random shutdowns,317,292.65,Pending
+WC-00314,T1-BAT-0235,TravelLite 12,Battery,2024-11-24,Swelling detected,756,133.78,Replaced
+WC-00315,AA1-KB-0059,AeroBook Air 13,Keyboard Assembly,2024-08-04,Sticky keys,768,153.07,Refunded
+WC-00316,WEX-BAT-0249,WorkHorse EliteBook X,Battery,2025-06-11,Won't hold charge,77,103.67,Pending
+WC-00317,WEX-DSP-0043,WorkHorse EliteBook X,Display Panel,2026-05-21,Backlight bleed,910,177.07,Repaired
+WC-00318,T1-SSD-0062,TravelLite 12,SSD Storage,2026-05-02,Boot failure,867,31.42,Replaced
+WC-00319,AP1-SSD-0142,AeroBook Pro 14,SSD Storage,2025-01-04,Drive not detected,213,93.08,Pending
+WC-00320,AP1-FAN-0156,AeroBook Pro 14,Cooling Fan,2025-10-12,Loud grinding noise,707,23.71,Refunded
+WC-00321,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2025-04-01,Random shutdowns,993,263.09,Refunded
+WC-00322,WEX-FAN-0106,WorkHorse EliteBook X,Cooling Fan,2026-05-07,Fan not spinning,776,251.8,Replaced
+WC-00323,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2025-01-30,Loud grinding noise,176,258.34,Repaired
+WC-00324,AP1-MB-0259,AeroBook Pro 14,Motherboard,2025-10-24,Random shutdowns,703,73.92,Pending
+WC-00325,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2026-06-04,Overheating,19,150.12,Repaired
+WC-00326,T1G-FAN-0195,TitanForce 15 Gaming,Cooling Fan,2025-09-07,Loud grinding noise,239,86.93,Refunded
+WC-00327,T1-RAM-0213,TravelLite 12,RAM Module,2025-12-27,Memory not detected,443,270.21,Refunded
+WC-00328,N2-CAM-0144,NimbusPad 2-in-1,Webcam Module,2024-08-11,Blurry/no image,319,208.0,Pending
+WC-00329,WEX-KB-0176,WorkHorse EliteBook X,Keyboard Assembly,2024-01-08,Backlight failure,688,290.45,Refunded
+WC-00330,T1-BAT-0169,TravelLite 12,Battery,2025-08-31,Battery not detected,299,100.07,Replaced
+WC-00331,AA1-KB-0151,AeroBook Air 13,Keyboard Assembly,2024-12-10,Sticky keys,665,107.66,Refunded
+WC-00332,AA1-BAT-0084,AeroBook Air 13,Battery,2025-12-29,Battery not detected,315,68.68,Repaired
+WC-00333,WEX-FAN-0271,WorkHorse EliteBook X,Cooling Fan,2026-04-04,Overheating,423,203.25,Repaired
+WC-00334,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-11-02,Fan not spinning,312,88.94,Pending
+WC-00335,AA1-RAM-0124,AeroBook Air 13,RAM Module,2026-01-24,Blue screen / crashes,607,216.8,Repaired
+WC-00336,WEX-FAN-0106,WorkHorse EliteBook X,Cooling Fan,2025-12-31,Loud grinding noise,712,167.37,Pending
+WC-00337,T1-KB-0272,TravelLite 12,Keyboard Assembly,2025-11-18,Sticky keys,529,100.56,Repaired
+WC-00338,AA1-BAT-0254,AeroBook Air 13,Battery,2026-06-16,Battery not detected,195,98.73,Pending
+WC-00339,T1-MB-0041,TravelLite 12,Motherboard,2024-09-21,Random shutdowns,979,208.72,Refunded
+WC-00340,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2024-08-15,Fan not spinning,238,227.1,Refunded
+WC-00341,AA1-RAM-0129,AeroBook Air 13,RAM Module,2024-12-05,Memory not detected,276,181.89,Pending
+WC-00342,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2025-04-26,Loud grinding noise,897,195.8,Replaced
+WC-00343,WEX-FAN-0148,WorkHorse EliteBook X,Cooling Fan,2024-07-18,Overheating,132,262.24,Pending
+WC-00344,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2025-02-27,Won't hold charge,901,258.46,Repaired
+WC-00345,AP1-MB-0300,AeroBook Pro 14,Motherboard,2024-12-16,Overheating / thermal shutdown,593,269.46,Pending
+WC-00346,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2026-06-02,Random shutdowns,807,38.03,Refunded
+WC-00347,T1-RAM-0192,TravelLite 12,RAM Module,2024-06-30,Memory not detected,659,31.53,Pending
+WC-00348,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2026-02-18,Loud grinding noise,600,232.88,Pending
+WC-00349,T1-FAN-0238,TravelLite 12,Cooling Fan,2026-03-09,Loud grinding noise,142,190.13,Pending
+WC-00350,WEX-MB-0123,WorkHorse EliteBook X,Motherboard,2025-05-03,Overheating / thermal shutdown,14,25.75,Repaired
+WC-00351,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2024-01-15,Fan not spinning,785,252.47,Repaired
+WC-00352,AP1-FAN-0006,AeroBook Pro 14,Cooling Fan,2024-01-05,Overheating,761,85.91,Refunded
+WC-00353,N2-RAM-0094,NimbusPad 2-in-1,RAM Module,2024-04-15,Memory not detected,525,182.77,Repaired
+WC-00354,AP1-RAM-0020,AeroBook Pro 14,RAM Module,2024-02-16,Memory not detected,981,97.89,Refunded
+WC-00355,AP1-BAT-0136,AeroBook Pro 14,Battery,2025-12-04,Won't hold charge,360,298.9,Pending
+WC-00356,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2024-07-11,Loud grinding noise,980,273.46,Pending
+WC-00357,AP1-FAN-0006,AeroBook Pro 14,Cooling Fan,2024-08-17,Overheating,144,75.19,Replaced
+WC-00358,N2-KB-0179,NimbusPad 2-in-1,Keyboard Assembly,2024-06-22,Keys unresponsive,385,217.67,Replaced
+WC-00359,T1-BAT-0116,TravelLite 12,Battery,2025-10-17,Swelling detected,799,167.4,Replaced
+WC-00360,T1G-SSD-0181,TitanForce 15 Gaming,SSD Storage,2024-02-19,Drive not detected,120,201.27,Replaced
+WC-00361,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2024-04-28,Fan not spinning,464,123.37,Refunded
+WC-00362,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2024-06-05,Loud grinding noise,721,210.44,Replaced
+WC-00363,AP1-FAN-0091,AeroBook Pro 14,Cooling Fan,2025-11-08,Loud grinding noise,688,163.29,Repaired
+WC-00364,WEX-SSD-0128,WorkHorse EliteBook X,SSD Storage,2024-04-17,Drive not detected,746,191.04,Refunded
+WC-00365,N2-CAM-0038,NimbusPad 2-in-1,Webcam Module,2024-04-18,Blurry/no image,213,188.57,Refunded
+WC-00366,AP1-KB-0251,AeroBook Pro 14,Keyboard Assembly,2024-07-25,Sticky keys,730,131.78,Repaired
+WC-00367,T1G-MB-0013,TitanForce 15 Gaming,Motherboard,2025-05-23,Random shutdowns,714,280.94,Refunded
+WC-00368,T1-BAT-0074,TravelLite 12,Battery,2024-01-14,Battery not detected,101,273.46,Pending
+WC-00369,N2-BAT-0046,NimbusPad 2-in-1,Battery,2024-04-02,Battery not detected,86,221.22,Replaced
+WC-00370,WEX-FAN-0271,WorkHorse EliteBook X,Cooling Fan,2025-10-21,Loud grinding noise,477,296.77,Refunded
+WC-00371,AA1-BAT-0084,AeroBook Air 13,Battery,2024-02-21,Won't hold charge,842,64.79,Replaced
+WC-00372,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2025-01-03,Overheating,330,136.41,Replaced
+WC-00373,AP1-FAN-0033,AeroBook Pro 14,Cooling Fan,2026-02-15,Loud grinding noise,19,257.82,Repaired
+WC-00374,AA1-DSP-0099,AeroBook Air 13,Display Panel,2025-03-24,Backlight bleed,284,265.37,Replaced
+WC-00375,AP1-SSD-0115,AeroBook Pro 14,SSD Storage,2024-12-16,Boot failure,126,129.22,Pending
+WC-00376,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2025-01-29,Overheating,881,151.3,Pending
+WC-00377,T1G-FAN-0195,TitanForce 15 Gaming,Cooling Fan,2026-03-27,Loud grinding noise,125,52.77,Replaced
+WC-00378,T1G-BAT-0297,TitanForce 15 Gaming,Battery,2026-05-14,Won't hold charge,116,133.57,Pending
+WC-00379,T1-BAT-0242,TravelLite 12,Battery,2025-11-25,Swelling detected,195,189.23,Refunded
+WC-00380,AA1-SSD-0186,AeroBook Air 13,SSD Storage,2026-06-02,Drive not detected,911,253.98,Repaired
+WC-00381,AA1-KB-0151,AeroBook Air 13,Keyboard Assembly,2025-05-14,Keys unresponsive,918,132.22,Replaced
+WC-00382,T1-BAT-0018,TravelLite 12,Battery,2025-11-01,Swelling detected,22,215.8,Repaired
+WC-00383,AP1-MB-0296,AeroBook Pro 14,Motherboard,2025-11-16,No display output,541,164.08,Replaced
+WC-00384,AP1-BAT-0136,AeroBook Pro 14,Battery,2026-01-14,Won't hold charge,503,113.54,Pending
+WC-00385,N2-BAT-0046,NimbusPad 2-in-1,Battery,2026-04-26,Battery not detected,923,296.52,Replaced
+WC-00386,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2024-06-09,Overheating,879,148.75,Pending
+WC-00387,T1-BAT-0263,TravelLite 12,Battery,2024-03-17,Swelling detected,338,83.65,Refunded
+WC-00388,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2024-08-16,Overheating,668,122.91,Repaired
+WC-00389,T1G-SSD-0024,TitanForce 15 Gaming,SSD Storage,2025-03-30,Drive not detected,468,40.09,Pending
+WC-00390,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-05-01,Overheating / thermal shutdown,773,201.21,Replaced
+WC-00391,WEX-MB-0123,WorkHorse EliteBook X,Motherboard,2024-02-06,Won't power on,855,40.91,Refunded
+WC-00392,N2-KB-0268,NimbusPad 2-in-1,Keyboard Assembly,2025-07-29,Keys unresponsive,680,206.37,Refunded
+WC-00393,WEX-KB-0111,WorkHorse EliteBook X,Keyboard Assembly,2024-02-25,Keys unresponsive,874,144.52,Pending
+WC-00394,AA1-KB-0216,AeroBook Air 13,Keyboard Assembly,2025-01-07,Backlight failure,473,47.5,Repaired
+WC-00395,T1-DSP-0002,TravelLite 12,Display Panel,2024-12-29,Backlight bleed,997,242.98,Refunded
+WC-00396,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2024-02-16,Random shutdowns,514,55.03,Pending
+WC-00397,T1-MB-0037,TravelLite 12,Motherboard,2025-09-17,Random shutdowns,202,49.41,Pending
+WC-00398,T1-FAN-0067,TravelLite 12,Cooling Fan,2026-04-24,Loud grinding noise,743,111.31,Pending
+WC-00399,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2025-10-10,Overheating,612,50.12,Pending
+WC-00400,AP1-SSD-0142,AeroBook Pro 14,SSD Storage,2025-08-26,Drive not detected,147,289.7,Replaced
+WC-00401,WEX-BAT-0162,WorkHorse EliteBook X,Battery,2024-02-19,Battery not detected,967,138.35,Pending
+WC-00402,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2026-03-10,Loud grinding noise,718,179.89,Repaired
+WC-00403,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2025-11-04,Drive not detected,630,266.57,Pending
+WC-00404,WEX-SSD-0128,WorkHorse EliteBook X,SSD Storage,2025-09-15,Drive not detected,790,85.75,Pending
+WC-00405,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2024-10-28,Fan not spinning,834,53.01,Pending
+WC-00406,AA1-MB-0184,AeroBook Air 13,Motherboard,2026-02-05,No display output,873,214.93,Refunded
+WC-00407,T1-RAM-0213,TravelLite 12,RAM Module,2025-07-20,Blue screen / crashes,215,74.77,Refunded
+WC-00408,T1-FAN-0207,TravelLite 12,Cooling Fan,2025-11-19,Loud grinding noise,737,200.27,Repaired
+WC-00409,AP1-FAN-0156,AeroBook Pro 14,Cooling Fan,2025-12-11,Overheating,340,217.45,Refunded
+WC-00410,T1-BAT-0169,TravelLite 12,Battery,2025-08-19,Battery not detected,975,205.14,Pending
+WC-00411,AP1-RAM-0204,AeroBook Pro 14,RAM Module,2026-05-11,Memory not detected,908,256.48,Replaced
+WC-00412,AA1-CAM-0160,AeroBook Air 13,Webcam Module,2024-01-26,Blurry/no image,158,30.12,Replaced
+WC-00413,T1-FAN-0063,TravelLite 12,Cooling Fan,2026-02-07,Loud grinding noise,303,209.77,Repaired
+WC-00414,AA1-BAT-0254,AeroBook Air 13,Battery,2025-12-08,Swelling detected,218,229.77,Replaced
+WC-00415,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2025-04-08,Loud grinding noise,640,262.39,Repaired
+WC-00416,AA1-RAM-0223,AeroBook Air 13,RAM Module,2025-07-28,Memory not detected,253,160.61,Refunded
+WC-00417,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2024-02-18,Sticky keys,406,133.72,Refunded
+WC-00418,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2024-02-25,Loud grinding noise,771,86.63,Pending
+WC-00419,AP1-KB-0251,AeroBook Pro 14,Keyboard Assembly,2025-10-10,Backlight failure,736,199.58,Repaired
+WC-00420,T1-FAN-0236,TravelLite 12,Cooling Fan,2024-07-17,Fan not spinning,469,65.57,Replaced
+WC-00421,AA1-KB-0059,AeroBook Air 13,Keyboard Assembly,2024-06-26,Backlight failure,536,49.02,Replaced
+WC-00422,N2-DSP-0135,NimbusPad 2-in-1,Display Panel,2025-07-23,Screen flicker,143,60.86,Refunded
+WC-00423,T1-FAN-0004,TravelLite 12,Cooling Fan,2025-04-22,Overheating,969,59.12,Repaired
+WC-00424,T1-BAT-0278,TravelLite 12,Battery,2025-09-03,Won't hold charge,802,280.73,Refunded
+WC-00425,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2025-08-09,No display output,84,238.45,Refunded
+WC-00426,N2-RAM-0161,NimbusPad 2-in-1,RAM Module,2024-07-07,Blue screen / crashes,815,158.96,Pending
+WC-00427,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2025-02-17,Won't power on,367,78.04,Repaired
+WC-00428,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2024-12-05,Fan not spinning,310,77.26,Pending
+WC-00429,AP1-MB-0300,AeroBook Pro 14,Motherboard,2026-04-23,Won't power on,127,205.65,Pending
+WC-00430,AA1-CAM-0076,AeroBook Air 13,Webcam Module,2025-10-19,Camera not detected,991,26.37,Refunded
+WC-00431,T1-BAT-0117,TravelLite 12,Battery,2026-03-26,Won't hold charge,405,88.13,Refunded
+WC-00432,T1G-KB-0008,TitanForce 15 Gaming,Keyboard Assembly,2025-06-13,Sticky keys,536,243.8,Pending
+WC-00433,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2024-10-30,Random shutdowns,338,161.46,Replaced
+WC-00434,AP1-BAT-0055,AeroBook Pro 14,Battery,2026-03-02,Battery not detected,556,17.09,Replaced
+WC-00435,WEX-FAN-0065,WorkHorse EliteBook X,Cooling Fan,2025-10-06,Loud grinding noise,895,210.34,Replaced
+WC-00436,T1G-BAT-0064,TitanForce 15 Gaming,Battery,2026-04-28,Battery not detected,909,293.22,Pending
+WC-00437,T1G-FAN-0195,TitanForce 15 Gaming,Cooling Fan,2024-03-14,Overheating,712,58.82,Pending
+WC-00438,AA1-KB-0216,AeroBook Air 13,Keyboard Assembly,2024-02-08,Keys unresponsive,85,30.47,Refunded
+WC-00439,T1-BAT-0169,TravelLite 12,Battery,2025-08-11,Won't hold charge,942,88.71,Pending
+WC-00440,T1G-CAM-0139,TitanForce 15 Gaming,Webcam Module,2025-02-18,Blurry/no image,333,19.81,Replaced
+WC-00441,T1-FAN-0163,TravelLite 12,Cooling Fan,2025-10-18,Overheating,643,33.02,Replaced
+WC-00442,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2024-03-15,No display output,960,158.31,Refunded
+WC-00443,T1-FAN-0238,TravelLite 12,Cooling Fan,2024-11-04,Overheating,98,95.23,Pending
+WC-00444,T1-BAT-0117,TravelLite 12,Battery,2026-04-21,Battery not detected,41,150.09,Repaired
+WC-00445,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2025-02-04,No display output,993,195.7,Refunded
+WC-00446,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2026-03-25,No display output,990,285.6,Repaired
+WC-00447,T1-MB-0041,TravelLite 12,Motherboard,2024-01-06,Overheating / thermal shutdown,560,171.04,Replaced
+WC-00448,N2-BAT-0092,NimbusPad 2-in-1,Battery,2026-02-05,Battery not detected,935,221.89,Repaired
+WC-00449,AA1-MB-0125,AeroBook Air 13,Motherboard,2025-10-23,Random shutdowns,174,67.44,Refunded
+WC-00450,T1-SSD-0062,TravelLite 12,SSD Storage,2024-07-04,Drive not detected,828,176.68,Replaced
+WC-00451,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2025-07-16,Fan not spinning,670,171.65,Refunded
+WC-00452,T1-CAM-0203,TravelLite 12,Webcam Module,2024-09-13,Camera not detected,212,221.79,Pending
+WC-00453,AA1-BAT-0288,AeroBook Air 13,Battery,2024-12-31,Won't hold charge,697,201.81,Replaced
+WC-00454,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2024-03-12,Loud grinding noise,335,153.47,Refunded
+WC-00455,AA1-BAT-0187,AeroBook Air 13,Battery,2024-11-09,Battery not detected,608,58.43,Refunded
+WC-00456,AA1-RAM-0244,AeroBook Air 13,RAM Module,2025-03-14,Blue screen / crashes,14,104.27,Repaired
+WC-00457,T1-RAM-0213,TravelLite 12,RAM Module,2025-10-18,Memory not detected,293,254.43,Repaired
+WC-00458,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2024-12-05,Overheating / thermal shutdown,483,141.93,Refunded
+WC-00459,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2024-04-21,Random shutdowns,671,187.89,Refunded
+WC-00460,AP1-MB-0259,AeroBook Pro 14,Motherboard,2024-05-23,Random shutdowns,279,224.06,Replaced
+WC-00461,WEX-CAM-0219,WorkHorse EliteBook X,Webcam Module,2024-01-20,Camera not detected,842,180.84,Pending
+WC-00462,T1G-DSP-0234,TitanForce 15 Gaming,Display Panel,2024-08-05,Dead pixels,574,89.28,Pending
+WC-00463,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2024-06-01,Fan not spinning,411,78.64,Refunded
+WC-00464,WEX-BAT-0042,WorkHorse EliteBook X,Battery,2025-05-28,Battery not detected,102,128.08,Replaced
+WC-00465,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2026-05-18,Overheating,710,62.27,Repaired
+WC-00466,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-07-02,Random shutdowns,763,223.62,Refunded
+WC-00467,T1G-MB-0013,TitanForce 15 Gaming,Motherboard,2026-02-18,Overheating / thermal shutdown,247,32.92,Refunded
+WC-00468,T1-BAT-0074,TravelLite 12,Battery,2025-11-15,Won't hold charge,540,273.7,Refunded
+WC-00469,T1-MB-0120,TravelLite 12,Motherboard,2025-04-10,Won't power on,50,294.47,Refunded
+WC-00470,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2025-06-17,Drive not detected,859,92.95,Refunded
+WC-00471,WEX-DSP-0174,WorkHorse EliteBook X,Display Panel,2025-08-06,Dead pixels,395,201.3,Refunded
+WC-00472,N2-DSP-0178,NimbusPad 2-in-1,Display Panel,2026-05-05,Dead pixels,539,86.7,Repaired
+WC-00473,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2024-12-27,Fan not spinning,508,240.91,Replaced
+WC-00474,T1-FAN-0154,TravelLite 12,Cooling Fan,2024-05-22,Fan not spinning,179,80.55,Refunded
+WC-00475,WEX-FAN-0065,WorkHorse EliteBook X,Cooling Fan,2024-07-10,Loud grinding noise,380,186.58,Replaced
+WC-00476,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2025-02-28,Fan not spinning,747,47.3,Pending
+WC-00477,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2025-08-27,Loud grinding noise,672,252.51,Replaced
+WC-00478,T1-MB-0078,TravelLite 12,Motherboard,2024-05-10,Random shutdowns,147,194.42,Replaced
+WC-00479,N2-KB-0268,NimbusPad 2-in-1,Keyboard Assembly,2024-05-30,Keys unresponsive,180,88.6,Repaired
+WC-00480,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2025-02-19,Overheating,587,196.72,Refunded
+WC-00481,AA1-BAT-0288,AeroBook Air 13,Battery,2024-08-09,Swelling detected,631,297.94,Pending
+WC-00482,AP1-BAT-0055,AeroBook Pro 14,Battery,2026-04-30,Swelling detected,625,55.67,Repaired
+WC-00483,AP1-BAT-0188,AeroBook Pro 14,Battery,2025-06-07,Swelling detected,181,221.39,Refunded
+WC-00484,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2025-09-02,Overheating,80,80.5,Pending
+WC-00485,WEX-BAT-0042,WorkHorse EliteBook X,Battery,2024-01-17,Won't hold charge,545,259.98,Pending
+WC-00486,AP1-FAN-0250,AeroBook Pro 14,Cooling Fan,2025-09-12,Loud grinding noise,191,150.62,Replaced
+WC-00487,AA1-MB-0264,AeroBook Air 13,Motherboard,2025-06-28,Won't power on,105,152.44,Repaired
+WC-00488,WEX-FAN-0271,WorkHorse EliteBook X,Cooling Fan,2025-07-06,Loud grinding noise,928,282.25,Pending
+WC-00489,AA1-BAT-0159,AeroBook Air 13,Battery,2025-01-14,Won't hold charge,724,166.0,Repaired
+WC-00490,T1G-KB-0284,TitanForce 15 Gaming,Keyboard Assembly,2025-05-08,Sticky keys,368,182.88,Replaced
+WC-00491,T1-RAM-0133,TravelLite 12,RAM Module,2024-09-17,Memory not detected,794,81.27,Replaced
+WC-00492,WEX-FAN-0087,WorkHorse EliteBook X,Cooling Fan,2026-06-16,Overheating,428,88.47,Replaced
+WC-00493,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2026-03-19,Loud grinding noise,601,163.92,Replaced
+WC-00494,T1-BAT-0116,TravelLite 12,Battery,2024-07-29,Battery not detected,833,105.03,Refunded
+WC-00495,T1-MB-0037,TravelLite 12,Motherboard,2025-03-12,No display output,277,258.67,Pending
+WC-00496,AA1-SSD-0170,AeroBook Air 13,SSD Storage,2025-09-18,Data corruption,706,128.27,Repaired
+WC-00497,AA1-MB-0125,AeroBook Air 13,Motherboard,2026-03-13,Overheating / thermal shutdown,193,120.51,Pending
+WC-00498,N2-KB-0080,NimbusPad 2-in-1,Keyboard Assembly,2024-11-10,Backlight failure,362,235.65,Pending
+WC-00499,AA1-KB-0221,AeroBook Air 13,Keyboard Assembly,2026-05-25,Backlight failure,131,228.13,Pending
+WC-00500,N2-KB-0237,NimbusPad 2-in-1,Keyboard Assembly,2024-06-14,Keys unresponsive,229,159.88,Refunded
+WC-00501,T1-BAT-0242,TravelLite 12,Battery,2025-09-20,Battery not detected,710,216.44,Repaired
+WC-00502,T1-MB-0120,TravelLite 12,Motherboard,2025-10-13,Won't power on,833,40.96,Repaired
+WC-00503,WEX-FAN-0148,WorkHorse EliteBook X,Cooling Fan,2025-09-06,Fan not spinning,100,33.26,Repaired
+WC-00504,T1-CAM-0114,TravelLite 12,Webcam Module,2025-09-15,Camera not detected,751,124.53,Pending
+WC-00505,AA1-BAT-0187,AeroBook Air 13,Battery,2025-06-17,Swelling detected,738,289.61,Replaced
+WC-00506,T1-KB-0287,TravelLite 12,Keyboard Assembly,2026-04-19,Keys unresponsive,665,155.89,Replaced
+WC-00507,T1G-BAT-0064,TitanForce 15 Gaming,Battery,2025-11-03,Battery not detected,302,70.5,Repaired
+WC-00508,AA1-BAT-0187,AeroBook Air 13,Battery,2025-11-21,Won't hold charge,378,83.19,Replaced
+WC-00509,AP1-MB-0296,AeroBook Pro 14,Motherboard,2024-03-29,No display output,808,128.84,Pending
+WC-00510,AA1-MB-0125,AeroBook Air 13,Motherboard,2024-07-24,Won't power on,764,215.53,Replaced
+WC-00511,T1G-SSD-0167,TitanForce 15 Gaming,SSD Storage,2026-01-13,Drive not detected,946,181.14,Refunded
+WC-00512,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2024-10-10,Loud grinding noise,630,289.47,Pending
+WC-00513,T1-BAT-0278,TravelLite 12,Battery,2025-08-11,Won't hold charge,277,64.88,Replaced
+WC-00514,T1-BAT-0169,TravelLite 12,Battery,2025-05-30,Swelling detected,358,284.9,Refunded
+WC-00515,AA1-MB-0264,AeroBook Air 13,Motherboard,2026-04-12,No display output,720,141.19,Pending
+WC-00516,AA1-SSD-0170,AeroBook Air 13,SSD Storage,2026-02-27,Boot failure,785,111.8,Pending
+WC-00517,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2025-08-23,Won't power on,503,48.14,Replaced
+WC-00518,T1-BAT-0117,TravelLite 12,Battery,2026-03-18,Won't hold charge,703,214.84,Refunded
+WC-00519,AA1-MB-0125,AeroBook Air 13,Motherboard,2024-12-27,Won't power on,727,252.17,Repaired
+WC-00520,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2025-02-12,Overheating,776,249.01,Replaced
+WC-00521,T1-MB-0168,TravelLite 12,Motherboard,2024-07-01,Overheating / thermal shutdown,331,115.76,Refunded
+WC-00522,T1-BAT-0058,TravelLite 12,Battery,2026-02-03,Battery not detected,962,274.33,Pending
+WC-00523,AA1-KB-0221,AeroBook Air 13,Keyboard Assembly,2024-08-28,Backlight failure,257,263.73,Repaired
+WC-00524,T1-BAT-0071,TravelLite 12,Battery,2026-05-04,Won't hold charge,866,191.3,Repaired
+WC-00525,T1-FAN-0236,TravelLite 12,Cooling Fan,2024-05-02,Loud grinding noise,702,287.4,Pending
+WC-00526,AA1-BAT-0187,AeroBook Air 13,Battery,2026-02-21,Battery not detected,990,27.04,Pending
+WC-00527,AP1-SSD-0115,AeroBook Pro 14,SSD Storage,2024-11-18,Data corruption,929,295.83,Refunded
+WC-00528,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2026-02-21,No display output,417,78.3,Repaired
+WC-00529,AA1-BAT-0017,AeroBook Air 13,Battery,2026-03-29,Swelling detected,499,282.8,Replaced
+WC-00530,WEX-DSP-0155,WorkHorse EliteBook X,Display Panel,2025-02-07,Backlight bleed,804,64.82,Replaced
+WC-00531,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2025-04-16,No display output,715,17.4,Repaired
+WC-00532,T1-BAT-0117,TravelLite 12,Battery,2024-04-13,Swelling detected,380,189.64,Refunded
+WC-00533,AA1-KB-0059,AeroBook Air 13,Keyboard Assembly,2024-09-26,Keys unresponsive,285,149.33,Refunded
+WC-00534,T1-CAM-0112,TravelLite 12,Webcam Module,2025-05-25,Blurry/no image,225,134.44,Refunded
+WC-00535,WEX-KB-0111,WorkHorse EliteBook X,Keyboard Assembly,2025-02-14,Sticky keys,471,66.27,Repaired
+WC-00536,T1G-BAT-0297,TitanForce 15 Gaming,Battery,2025-12-03,Won't hold charge,843,43.46,Refunded
+WC-00537,T1-BAT-0242,TravelLite 12,Battery,2025-07-22,Swelling detected,886,123.55,Repaired
+WC-00538,T1G-BAT-0241,TitanForce 15 Gaming,Battery,2026-01-26,Won't hold charge,494,244.62,Repaired
+WC-00539,AP1-CAM-0130,AeroBook Pro 14,Webcam Module,2024-05-17,Blurry/no image,814,153.69,Refunded
+WC-00540,T1-BAT-0169,TravelLite 12,Battery,2025-08-04,Won't hold charge,417,43.21,Repaired
+WC-00541,T1-BAT-0018,TravelLite 12,Battery,2026-04-13,Swelling detected,497,254.11,Replaced
+WC-00542,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-12-08,No display output,379,117.69,Refunded
+WC-00543,WEX-FAN-0106,WorkHorse EliteBook X,Cooling Fan,2025-02-25,Loud grinding noise,369,262.2,Repaired
+WC-00544,T1-FAN-0173,TravelLite 12,Cooling Fan,2025-10-27,Overheating,561,64.74,Refunded
+WC-00545,AA1-CAM-0109,AeroBook Air 13,Webcam Module,2025-11-20,Blurry/no image,803,224.91,Replaced
+WC-00546,T1-BAT-0117,TravelLite 12,Battery,2024-10-20,Swelling detected,656,287.63,Repaired
+WC-00547,T1G-BAT-0194,TitanForce 15 Gaming,Battery,2024-12-11,Swelling detected,656,189.51,Pending
+WC-00548,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2024-03-14,Loud grinding noise,175,112.93,Refunded
+WC-00549,AP1-BAT-0096,AeroBook Pro 14,Battery,2024-10-25,Battery not detected,283,187.53,Pending
+WC-00550,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2025-03-31,Fan not spinning,775,182.27,Pending
+WC-00551,AP1-SSD-0126,AeroBook Pro 14,SSD Storage,2024-07-07,Boot failure,138,222.42,Refunded
+WC-00552,T1G-KB-0284,TitanForce 15 Gaming,Keyboard Assembly,2025-12-18,Backlight failure,91,75.01,Pending
+WC-00553,AA1-SSD-0035,AeroBook Air 13,SSD Storage,2024-03-06,Data corruption,571,30.34,Pending
+WC-00554,N2-RAM-0161,NimbusPad 2-in-1,RAM Module,2024-03-26,Blue screen / crashes,278,191.16,Replaced
+WC-00555,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2025-02-03,Fan not spinning,244,85.51,Refunded
+WC-00556,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-05-09,Random shutdowns,549,253.98,Replaced
+WC-00557,T1G-MB-0013,TitanForce 15 Gaming,Motherboard,2024-12-31,No display output,894,150.7,Refunded
+WC-00558,T1G-SSD-0167,TitanForce 15 Gaming,SSD Storage,2024-05-18,Drive not detected,562,65.46,Pending
+WC-00559,T1-RAM-0192,TravelLite 12,RAM Module,2025-10-13,Memory not detected,546,197.34,Refunded
+WC-00560,AP1-DSP-0273,AeroBook Pro 14,Display Panel,2025-05-08,Backlight bleed,242,244.34,Pending
+WC-00561,N2-BAT-0092,NimbusPad 2-in-1,Battery,2025-02-26,Swelling detected,169,101.52,Replaced
+WC-00562,AA1-CAM-0160,AeroBook Air 13,Webcam Module,2026-02-15,Camera not detected,362,96.73,Replaced
+WC-00563,T1-FAN-0207,TravelLite 12,Cooling Fan,2025-05-18,Fan not spinning,316,17.6,Pending
+WC-00564,T1G-BAT-0241,TitanForce 15 Gaming,Battery,2025-09-03,Won't hold charge,825,17.06,Refunded
+WC-00565,T1-DSP-0060,TravelLite 12,Display Panel,2025-07-28,Screen flicker,414,86.22,Pending
+WC-00566,AP1-KB-0251,AeroBook Pro 14,Keyboard Assembly,2024-08-13,Sticky keys,91,135.34,Repaired
+WC-00567,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2026-03-30,Overheating,836,212.77,Refunded
+WC-00568,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2026-01-30,Overheating,838,91.61,Repaired
+WC-00569,AA1-FAN-0258,AeroBook Air 13,Cooling Fan,2024-07-05,Loud grinding noise,306,46.45,Pending
+WC-00570,AA1-BAT-0187,AeroBook Air 13,Battery,2024-10-05,Battery not detected,647,155.22,Refunded
+WC-00571,AP1-FAN-0006,AeroBook Pro 14,Cooling Fan,2024-02-20,Overheating,32,67.99,Replaced
+WC-00572,WEX-FAN-0087,WorkHorse EliteBook X,Cooling Fan,2024-05-08,Overheating,458,222.23,Repaired
+WC-00573,AP1-SSD-0030,AeroBook Pro 14,SSD Storage,2024-01-16,Data corruption,232,112.45,Refunded
+WC-00574,T1-FAN-0238,TravelLite 12,Cooling Fan,2025-05-25,Fan not spinning,484,213.63,Replaced
+WC-00575,T1G-DSP-0100,TitanForce 15 Gaming,Display Panel,2026-05-13,Dead pixels,67,90.95,Pending
+WC-00576,AA1-MB-0023,AeroBook Air 13,Motherboard,2025-04-26,Random shutdowns,206,270.27,Refunded
+WC-00577,WEX-BAT-0249,WorkHorse EliteBook X,Battery,2026-04-28,Won't hold charge,134,292.76,Repaired
+WC-00578,N2-DSP-0119,NimbusPad 2-in-1,Display Panel,2025-03-29,Dead pixels,765,298.44,Repaired
+WC-00579,WEX-BAT-0145,WorkHorse EliteBook X,Battery,2026-02-28,Won't hold charge,543,204.81,Repaired
+WC-00580,WEX-FAN-0148,WorkHorse EliteBook X,Cooling Fan,2025-11-28,Fan not spinning,968,107.07,Replaced
+WC-00581,WEX-KB-0225,WorkHorse EliteBook X,Keyboard Assembly,2025-07-16,Backlight failure,135,87.19,Refunded
+WC-00582,T1-FAN-0063,TravelLite 12,Cooling Fan,2024-02-23,Overheating,233,292.38,Repaired
+WC-00583,N2-FAN-0193,NimbusPad 2-in-1,Cooling Fan,2024-11-28,Loud grinding noise,181,241.4,Replaced
+WC-00584,N2-CAM-0122,NimbusPad 2-in-1,Webcam Module,2024-09-05,Camera not detected,53,180.61,Pending
+WC-00585,T1-FAN-0207,TravelLite 12,Cooling Fan,2024-06-07,Fan not spinning,799,40.5,Repaired
+WC-00586,T1-FAN-0154,TravelLite 12,Cooling Fan,2025-12-03,Overheating,356,280.29,Replaced
+WC-00587,T1-BAT-0018,TravelLite 12,Battery,2025-10-22,Won't hold charge,728,167.86,Replaced
+WC-00588,T1-MB-0041,TravelLite 12,Motherboard,2024-08-26,No display output,581,239.74,Refunded
+WC-00589,T1-BAT-0242,TravelLite 12,Battery,2025-03-25,Battery not detected,207,21.09,Pending
+WC-00590,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2024-05-17,Fan not spinning,930,26.25,Pending
+WC-00591,T1-BAT-0169,TravelLite 12,Battery,2025-07-09,Battery not detected,511,69.09,Repaired
+WC-00592,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2024-11-27,Overheating / thermal shutdown,291,262.28,Repaired
+WC-00593,T1-RAM-0022,TravelLite 12,RAM Module,2024-06-07,Memory not detected,312,248.53,Refunded
+WC-00594,T1-SSD-0141,TravelLite 12,SSD Storage,2026-03-05,Drive not detected,528,123.03,Repaired
+WC-00595,N2-CAM-0265,NimbusPad 2-in-1,Webcam Module,2025-09-26,Blurry/no image,804,191.76,Refunded
+WC-00596,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-11-05,Overheating,848,125.43,Pending
+WC-00597,T1G-FAN-0233,TitanForce 15 Gaming,Cooling Fan,2024-06-06,Overheating,299,106.94,Refunded
+WC-00598,T1-MB-0037,TravelLite 12,Motherboard,2025-06-19,Won't power on,54,253.03,Repaired
+WC-00599,AA1-SSD-0057,AeroBook Air 13,SSD Storage,2024-02-02,Boot failure,119,153.33,Replaced
+WC-00600,N2-KB-0010,NimbusPad 2-in-1,Keyboard Assembly,2025-10-19,Sticky keys,683,154.62,Refunded
+WC-00601,N2-FAN-0015,NimbusPad 2-in-1,Cooling Fan,2024-08-14,Overheating,745,35.2,Repaired
+WC-00602,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2026-05-02,Loud grinding noise,489,243.29,Replaced
+WC-00603,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2026-01-31,Fan not spinning,851,120.18,Replaced
+WC-00604,AP1-FAN-0250,AeroBook Pro 14,Cooling Fan,2024-09-29,Overheating,51,224.28,Refunded
+WC-00605,AA1-MB-0023,AeroBook Air 13,Motherboard,2024-08-09,Won't power on,113,221.67,Pending
+WC-00606,N2-KB-0061,NimbusPad 2-in-1,Keyboard Assembly,2025-06-22,Backlight failure,264,177.46,Repaired
+WC-00607,T1-BAT-0169,TravelLite 12,Battery,2025-07-25,Swelling detected,774,45.07,Refunded
+WC-00608,WEX-MB-0205,WorkHorse EliteBook X,Motherboard,2025-12-20,Overheating / thermal shutdown,914,44.67,Repaired
+WC-00609,T1-MB-0168,TravelLite 12,Motherboard,2025-05-31,No display output,683,60.08,Pending
+WC-00610,AA1-DSP-0280,AeroBook Air 13,Display Panel,2024-11-18,Backlight bleed,342,255.78,Pending
+WC-00611,T1G-FAN-0233,TitanForce 15 Gaming,Cooling Fan,2025-03-16,Overheating,341,188.4,Repaired
+WC-00612,T1-BAT-0116,TravelLite 12,Battery,2025-07-17,Battery not detected,270,117.6,Pending
+WC-00613,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2025-02-10,Won't power on,753,24.88,Refunded
+WC-00614,T1-KB-0182,TravelLite 12,Keyboard Assembly,2025-06-14,Keys unresponsive,921,101.02,Refunded
+WC-00615,T1G-FAN-0298,TitanForce 15 Gaming,Cooling Fan,2024-08-07,Fan not spinning,32,234.88,Refunded
+WC-00616,T1G-KB-0276,TitanForce 15 Gaming,Keyboard Assembly,2025-06-07,Backlight failure,594,278.89,Repaired
+WC-00617,AP1-FAN-0033,AeroBook Pro 14,Cooling Fan,2025-04-16,Fan not spinning,169,54.45,Refunded
+WC-00618,N2-KB-0268,NimbusPad 2-in-1,Keyboard Assembly,2024-09-12,Keys unresponsive,272,246.16,Replaced
+WC-00619,T1G-DSP-0172,TitanForce 15 Gaming,Display Panel,2025-08-05,Dead pixels,761,37.0,Refunded
+WC-00620,AA1-KB-0239,AeroBook Air 13,Keyboard Assembly,2024-06-26,Sticky keys,855,271.22,Replaced
+WC-00621,T1-KB-0182,TravelLite 12,Keyboard Assembly,2024-11-03,Keys unresponsive,758,245.38,Pending
+WC-00622,T1G-SSD-0024,TitanForce 15 Gaming,SSD Storage,2024-02-27,Data corruption,366,265.74,Pending
+WC-00623,AA1-RAM-0127,AeroBook Air 13,RAM Module,2026-06-07,Blue screen / crashes,900,234.56,Replaced
+WC-00624,N2-FAN-0193,NimbusPad 2-in-1,Cooling Fan,2025-10-09,Fan not spinning,65,101.86,Replaced
+WC-00625,N2-RAM-0097,NimbusPad 2-in-1,RAM Module,2025-08-01,Blue screen / crashes,344,158.18,Repaired
+WC-00626,WEX-RAM-0049,WorkHorse EliteBook X,RAM Module,2025-11-20,Memory not detected,466,229.56,Replaced
+WC-00627,T1-DSP-0069,TravelLite 12,Display Panel,2024-10-23,Screen flicker,161,52.67,Replaced
+WC-00628,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2026-02-02,Loud grinding noise,571,128.77,Replaced
+WC-00629,WEX-MB-0123,WorkHorse EliteBook X,Motherboard,2025-03-20,Random shutdowns,790,53.44,Repaired
+WC-00630,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2025-10-29,Random shutdowns,584,190.56,Repaired
+WC-00631,T1-SSD-0077,TravelLite 12,SSD Storage,2024-09-29,Data corruption,341,210.15,Replaced
+WC-00632,T1-MB-0037,TravelLite 12,Motherboard,2025-02-27,Overheating / thermal shutdown,384,114.27,Refunded
+WC-00633,WEX-FAN-0106,WorkHorse EliteBook X,Cooling Fan,2025-11-02,Loud grinding noise,798,101.87,Refunded
+WC-00634,AA1-BAT-0187,AeroBook Air 13,Battery,2026-04-02,Swelling detected,648,56.56,Replaced
+WC-00635,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2024-08-27,Loud grinding noise,711,121.54,Replaced
+WC-00636,T1-MB-0037,TravelLite 12,Motherboard,2024-02-25,Random shutdowns,981,191.99,Repaired
+WC-00637,T1G-KB-0262,TitanForce 15 Gaming,Keyboard Assembly,2026-04-19,Sticky keys,24,112.83,Replaced
+WC-00638,N2-BAT-0092,NimbusPad 2-in-1,Battery,2025-04-27,Won't hold charge,349,74.57,Repaired
+WC-00639,T1G-BAT-0064,TitanForce 15 Gaming,Battery,2025-06-19,Swelling detected,571,152.66,Repaired
+WC-00640,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2025-11-15,Keys unresponsive,395,181.16,Replaced
+WC-00641,WEX-CAM-0081,WorkHorse EliteBook X,Webcam Module,2024-03-02,Blurry/no image,215,239.92,Refunded
+WC-00642,WEX-RAM-0016,WorkHorse EliteBook X,RAM Module,2025-11-01,Blue screen / crashes,78,125.76,Refunded
+WC-00643,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2025-11-06,Fan not spinning,895,45.75,Refunded
+WC-00644,T1G-KB-0262,TitanForce 15 Gaming,Keyboard Assembly,2025-10-26,Sticky keys,246,294.24,Replaced
+WC-00645,WEX-FAN-0271,WorkHorse EliteBook X,Cooling Fan,2025-05-11,Overheating,554,40.09,Repaired
+WC-00646,T1-FAN-0154,TravelLite 12,Cooling Fan,2025-04-13,Overheating,958,218.05,Replaced
+WC-00647,T1-MB-0078,TravelLite 12,Motherboard,2025-06-26,No display output,351,154.63,Repaired
+WC-00648,AP1-FAN-0006,AeroBook Pro 14,Cooling Fan,2025-12-01,Fan not spinning,373,193.19,Repaired
+WC-00649,AP1-MB-0300,AeroBook Pro 14,Motherboard,2025-05-28,No display output,841,32.67,Refunded
+WC-00650,AA1-MB-0264,AeroBook Air 13,Motherboard,2026-04-14,Won't power on,976,173.16,Refunded
+WC-00651,T1-BAT-0071,TravelLite 12,Battery,2024-12-15,Swelling detected,682,54.12,Pending
+WC-00652,AA1-BAT-0159,AeroBook Air 13,Battery,2025-11-25,Battery not detected,903,193.27,Repaired
+WC-00653,WEX-SSD-0128,WorkHorse EliteBook X,SSD Storage,2025-08-09,Boot failure,446,291.6,Refunded
+WC-00654,N2-MB-0138,NimbusPad 2-in-1,Motherboard,2024-05-14,Random shutdowns,678,54.49,Repaired
+WC-00655,AP1-MB-0259,AeroBook Pro 14,Motherboard,2024-11-12,Random shutdowns,450,298.77,Repaired
+WC-00656,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2025-08-01,Loud grinding noise,335,34.33,Replaced
+WC-00657,T1-BAT-0058,TravelLite 12,Battery,2026-05-09,Won't hold charge,754,23.4,Refunded
+WC-00658,AA1-MB-0264,AeroBook Air 13,Motherboard,2025-02-27,Overheating / thermal shutdown,320,141.26,Refunded
+WC-00659,T1G-DSP-0048,TitanForce 15 Gaming,Display Panel,2024-07-11,Dead pixels,144,67.65,Refunded
+WC-00660,AA1-MB-0184,AeroBook Air 13,Motherboard,2025-09-19,Random shutdowns,620,81.17,Replaced
+WC-00661,AA1-FAN-0110,AeroBook Air 13,Cooling Fan,2025-12-05,Fan not spinning,147,158.16,Pending
+WC-00662,T1-RAM-0213,TravelLite 12,RAM Module,2025-01-17,Blue screen / crashes,882,125.43,Pending
+WC-00663,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2024-07-16,Random shutdowns,43,131.45,Replaced
+WC-00664,T1G-FAN-0277,TitanForce 15 Gaming,Cooling Fan,2025-02-26,Loud grinding noise,770,206.33,Repaired
+WC-00665,WEX-MB-0229,WorkHorse EliteBook X,Motherboard,2024-03-08,Random shutdowns,959,287.09,Pending
+WC-00666,T1G-KB-0262,TitanForce 15 Gaming,Keyboard Assembly,2025-05-16,Backlight failure,342,262.03,Repaired
+WC-00667,T1-CAM-0134,TravelLite 12,Webcam Module,2026-03-05,Camera not detected,632,224.57,Pending
+WC-00668,N2-DSP-0217,NimbusPad 2-in-1,Display Panel,2025-02-07,Backlight bleed,971,226.6,Replaced
+WC-00669,AA1-BAT-0159,AeroBook Air 13,Battery,2025-04-07,Swelling detected,856,265.16,Repaired
+WC-00670,AA1-BAT-0159,AeroBook Air 13,Battery,2025-02-09,Battery not detected,50,173.94,Replaced
+WC-00671,N2-KB-0061,NimbusPad 2-in-1,Keyboard Assembly,2025-03-26,Sticky keys,915,101.8,Refunded
+WC-00672,WEX-BAT-0145,WorkHorse EliteBook X,Battery,2025-03-08,Swelling detected,637,276.92,Repaired
+WC-00673,WEX-BAT-0145,WorkHorse EliteBook X,Battery,2025-10-23,Swelling detected,102,220.95,Replaced
+WC-00674,T1-BAT-0058,TravelLite 12,Battery,2025-08-22,Battery not detected,569,53.56,Pending
+WC-00675,AP1-MB-0098,AeroBook Pro 14,Motherboard,2024-01-26,Random shutdowns,474,183.24,Repaired
+WC-00676,N2-CAM-0265,NimbusPad 2-in-1,Webcam Module,2024-04-02,Blurry/no image,341,212.14,Repaired
+WC-00677,AA1-KB-0216,AeroBook Air 13,Keyboard Assembly,2024-05-06,Keys unresponsive,126,216.27,Refunded
+WC-00678,N2-DSP-0028,NimbusPad 2-in-1,Display Panel,2025-12-25,Screen flicker,754,240.45,Repaired
+WC-00679,T1-BAT-0117,TravelLite 12,Battery,2025-01-24,Won't hold charge,796,63.7,Refunded
+WC-00680,T1G-BAT-0171,TitanForce 15 Gaming,Battery,2025-11-06,Won't hold charge,176,262.61,Repaired
+WC-00681,T1G-DSP-0234,TitanForce 15 Gaming,Display Panel,2024-02-22,Screen flicker,325,103.21,Pending
+WC-00682,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2024-07-04,Loud grinding noise,930,52.5,Repaired
+WC-00683,AP1-SSD-0003,AeroBook Pro 14,SSD Storage,2026-02-22,Data corruption,22,145.71,Pending
+WC-00684,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2024-01-06,Overheating / thermal shutdown,253,76.81,Pending
+WC-00685,T1-SSD-0141,TravelLite 12,SSD Storage,2025-03-28,Boot failure,625,186.03,Repaired
+WC-00686,AA1-MB-0264,AeroBook Air 13,Motherboard,2024-10-11,Random shutdowns,60,67.68,Replaced
+WC-00687,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2024-02-07,Loud grinding noise,884,24.24,Refunded
+WC-00688,T1-KB-0101,TravelLite 12,Keyboard Assembly,2024-03-30,Keys unresponsive,121,133.83,Repaired
+WC-00689,AP1-BAT-0051,AeroBook Pro 14,Battery,2024-10-18,Battery not detected,686,212.08,Repaired
+WC-00690,AA1-FAN-0294,AeroBook Air 13,Cooling Fan,2026-02-06,Overheating,378,280.47,Replaced
+WC-00691,T1G-FAN-0233,TitanForce 15 Gaming,Cooling Fan,2024-11-26,Fan not spinning,929,123.0,Replaced
+WC-00692,WEX-MB-0229,WorkHorse EliteBook X,Motherboard,2026-05-13,Won't power on,309,149.18,Replaced
+WC-00693,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2024-10-08,Sticky keys,549,132.92,Repaired
+WC-00694,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2025-09-18,Keys unresponsive,121,177.84,Replaced
+WC-00695,AA1-KB-0151,AeroBook Air 13,Keyboard Assembly,2025-12-06,Backlight failure,966,239.63,Refunded
+WC-00696,T1-CAM-0134,TravelLite 12,Webcam Module,2026-05-18,Blurry/no image,275,164.74,Refunded
+WC-00697,T1-BAT-0278,TravelLite 12,Battery,2025-09-21,Battery not detected,518,163.12,Pending
+WC-00698,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2024-07-03,Random shutdowns,735,97.79,Repaired
+WC-00699,T1-DSP-0002,TravelLite 12,Display Panel,2024-01-25,Screen flicker,650,242.07,Repaired
+WC-00700,T1G-BAT-0241,TitanForce 15 Gaming,Battery,2025-02-28,Swelling detected,56,110.13,Repaired
+WC-00701,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2024-07-25,Overheating,298,87.51,Replaced
+WC-00702,N2-BAT-0092,NimbusPad 2-in-1,Battery,2025-06-02,Battery not detected,341,233.6,Replaced
+WC-00703,T1-FAN-0207,TravelLite 12,Cooling Fan,2024-12-15,Fan not spinning,751,177.14,Replaced
+WC-00704,T1G-BAT-0252,TitanForce 15 Gaming,Battery,2024-07-17,Swelling detected,863,111.31,Pending
+WC-00705,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2026-03-27,Loud grinding noise,671,53.69,Repaired
+WC-00706,AP1-BAT-0189,AeroBook Pro 14,Battery,2026-06-04,Battery not detected,927,110.51,Pending
+WC-00707,T1-BAT-0278,TravelLite 12,Battery,2024-02-27,Battery not detected,316,176.01,Refunded
+WC-00708,T1-MB-0168,TravelLite 12,Motherboard,2024-01-20,Random shutdowns,601,210.37,Refunded
+WC-00709,AP1-RAM-0020,AeroBook Pro 14,RAM Module,2024-06-01,Memory not detected,870,23.88,Pending
+WC-00710,AP1-BAT-0189,AeroBook Pro 14,Battery,2026-05-12,Won't hold charge,594,187.62,Repaired
+WC-00711,T1-KB-0182,TravelLite 12,Keyboard Assembly,2026-06-04,Sticky keys,732,259.48,Replaced
+WC-00712,AA1-FAN-0086,AeroBook Air 13,Cooling Fan,2024-03-29,Fan not spinning,908,82.73,Pending
+WC-00713,AP1-KB-0251,AeroBook Pro 14,Keyboard Assembly,2024-11-05,Keys unresponsive,547,101.16,Replaced
+WC-00714,T1-BAT-0116,TravelLite 12,Battery,2024-02-08,Won't hold charge,945,41.39,Replaced
+WC-00715,T1G-BAT-0241,TitanForce 15 Gaming,Battery,2025-05-27,Won't hold charge,204,111.93,Pending
+WC-00716,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2025-06-20,Fan not spinning,804,108.29,Replaced
+WC-00717,WEX-BAT-0249,WorkHorse EliteBook X,Battery,2025-06-12,Battery not detected,145,73.48,Replaced
+WC-00718,N2-CAM-0144,NimbusPad 2-in-1,Webcam Module,2025-12-31,Camera not detected,14,103.63,Replaced
+WC-00719,T1-FAN-0207,TravelLite 12,Cooling Fan,2025-08-31,Loud grinding noise,351,148.06,Replaced
+WC-00720,N2-SSD-0036,NimbusPad 2-in-1,SSD Storage,2026-02-23,Drive not detected,773,104.06,Refunded
+WC-00721,T1G-BAT-0194,TitanForce 15 Gaming,Battery,2024-08-02,Swelling detected,215,69.88,Refunded
+WC-00722,T1-FAN-0163,TravelLite 12,Cooling Fan,2026-03-02,Fan not spinning,697,48.53,Repaired
+WC-00723,AP1-BAT-0051,AeroBook Pro 14,Battery,2024-04-27,Won't hold charge,991,192.54,Replaced
+WC-00724,WEX-FAN-0065,WorkHorse EliteBook X,Cooling Fan,2024-12-24,Overheating,336,92.25,Refunded
+WC-00725,T1-FAN-0173,TravelLite 12,Cooling Fan,2024-06-24,Loud grinding noise,328,189.78,Refunded
+WC-00726,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2024-02-21,Random shutdowns,39,149.16,Replaced
+WC-00727,T1-MB-0037,TravelLite 12,Motherboard,2024-02-25,Won't power on,446,126.7,Pending
+WC-00728,AA1-BAT-0187,AeroBook Air 13,Battery,2024-11-15,Swelling detected,847,71.47,Replaced
+WC-00729,AP1-MB-0296,AeroBook Pro 14,Motherboard,2026-02-12,Overheating / thermal shutdown,591,52.56,Pending
+WC-00730,AP1-FAN-0033,AeroBook Pro 14,Cooling Fan,2024-11-13,Overheating,669,217.41,Pending
+WC-00731,WEX-FAN-0148,WorkHorse EliteBook X,Cooling Fan,2024-08-17,Loud grinding noise,891,270.27,Refunded
+WC-00732,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2025-02-05,Loud grinding noise,726,276.42,Refunded
+WC-00733,T1-FAN-0238,TravelLite 12,Cooling Fan,2024-11-28,Fan not spinning,509,23.63,Pending
+WC-00734,T1-MB-0037,TravelLite 12,Motherboard,2025-05-05,Overheating / thermal shutdown,876,63.68,Refunded
+WC-00735,AA1-MB-0184,AeroBook Air 13,Motherboard,2024-05-10,Won't power on,425,248.0,Replaced
+WC-00736,AP1-MB-0098,AeroBook Pro 14,Motherboard,2025-10-27,Won't power on,821,101.1,Pending
+WC-00737,WEX-MB-0123,WorkHorse EliteBook X,Motherboard,2025-02-27,Random shutdowns,645,84.45,Repaired
+WC-00738,AP1-MB-0296,AeroBook Pro 14,Motherboard,2025-01-28,Won't power on,358,74.35,Pending
+WC-00739,N2-KB-0237,NimbusPad 2-in-1,Keyboard Assembly,2025-03-21,Backlight failure,816,112.53,Repaired
+WC-00740,AA1-FAN-0056,AeroBook Air 13,Cooling Fan,2025-11-16,Loud grinding noise,767,280.3,Pending
+WC-00741,N2-CAM-0038,NimbusPad 2-in-1,Webcam Module,2025-09-02,Blurry/no image,343,173.2,Pending
+WC-00742,AA1-FAN-0056,AeroBook Air 13,Cooling Fan,2025-02-19,Loud grinding noise,622,45.99,Pending
+WC-00743,AP1-MB-0098,AeroBook Pro 14,Motherboard,2025-10-22,Won't power on,102,77.02,Repaired
+WC-00744,T1-CAM-0267,TravelLite 12,Webcam Module,2026-02-12,Camera not detected,785,56.82,Repaired
+WC-00745,AA1-RAM-0140,AeroBook Air 13,RAM Module,2024-10-25,Memory not detected,640,179.71,Repaired
+WC-00746,T1G-BAT-0064,TitanForce 15 Gaming,Battery,2026-06-17,Swelling detected,316,177.53,Refunded
+WC-00747,T1G-KB-0276,TitanForce 15 Gaming,Keyboard Assembly,2025-03-21,Backlight failure,947,113.12,Replaced
+WC-00748,WEX-KB-0176,WorkHorse EliteBook X,Keyboard Assembly,2025-09-18,Backlight failure,423,256.58,Refunded
+WC-00749,T1-BAT-0018,TravelLite 12,Battery,2025-07-16,Won't hold charge,10,215.46,Refunded
+WC-00750,T1-MB-0037,TravelLite 12,Motherboard,2024-10-15,Won't power on,250,138.04,Pending
+WC-00751,AP1-BAT-0189,AeroBook Pro 14,Battery,2025-12-29,Swelling detected,425,123.75,Repaired
+WC-00752,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2025-05-01,Loud grinding noise,202,173.3,Refunded
+WC-00753,AA1-BAT-0254,AeroBook Air 13,Battery,2024-06-06,Swelling detected,903,205.97,Repaired
+WC-00754,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2025-10-25,Loud grinding noise,157,220.58,Pending
+WC-00755,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2024-05-19,Loud grinding noise,150,198.04,Pending
+WC-00756,AP1-MB-0259,AeroBook Pro 14,Motherboard,2026-03-18,Overheating / thermal shutdown,648,66.24,Pending
+WC-00757,T1-MB-0168,TravelLite 12,Motherboard,2025-04-05,Overheating / thermal shutdown,373,79.34,Pending
+WC-00758,AA1-MB-0184,AeroBook Air 13,Motherboard,2025-08-14,Overheating / thermal shutdown,877,223.31,Refunded
+WC-00759,AA1-MB-0125,AeroBook Air 13,Motherboard,2025-07-13,No display output,44,293.8,Pending
+WC-00760,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2024-04-25,Overheating,503,289.1,Replaced
+WC-00761,WEX-MB-0044,WorkHorse EliteBook X,Motherboard,2026-01-18,No display output,486,162.33,Replaced
+WC-00762,T1-MB-0078,TravelLite 12,Motherboard,2025-10-07,Won't power on,710,195.6,Refunded
+WC-00763,AA1-SSD-0186,AeroBook Air 13,SSD Storage,2024-12-17,Drive not detected,807,18.07,Pending
+WC-00764,T1G-FAN-0158,TitanForce 15 Gaming,Cooling Fan,2025-04-25,Overheating,761,109.48,Refunded
+WC-00765,WEX-BAT-0292,WorkHorse EliteBook X,Battery,2026-03-28,Swelling detected,306,62.74,Refunded
+WC-00766,T1-FAN-0218,TravelLite 12,Cooling Fan,2025-07-31,Fan not spinning,72,194.35,Repaired
+WC-00767,T1-FAN-0173,TravelLite 12,Cooling Fan,2025-11-03,Fan not spinning,838,225.15,Replaced
+WC-00768,N2-FAN-0088,NimbusPad 2-in-1,Cooling Fan,2024-03-25,Loud grinding noise,527,36.91,Refunded
+WC-00769,N2-KB-0080,NimbusPad 2-in-1,Keyboard Assembly,2025-09-22,Sticky keys,291,259.49,Replaced
+WC-00770,AA1-RAM-0223,AeroBook Air 13,RAM Module,2025-09-10,Blue screen / crashes,941,183.65,Repaired
+WC-00771,N2-FAN-0198,NimbusPad 2-in-1,Cooling Fan,2025-01-13,Loud grinding noise,277,238.02,Repaired
+WC-00772,N2-MB-0152,NimbusPad 2-in-1,Motherboard,2026-03-29,Won't power on,361,295.46,Repaired
+WC-00773,T1-KB-0182,TravelLite 12,Keyboard Assembly,2026-04-21,Keys unresponsive,867,156.35,Pending
+WC-00774,T1-BAT-0235,TravelLite 12,Battery,2024-08-31,Battery not detected,460,221.91,Repaired
+WC-00775,WEX-FAN-0065,WorkHorse EliteBook X,Cooling Fan,2026-01-21,Fan not spinning,65,198.04,Replaced
+WC-00776,WEX-RAM-0016,WorkHorse EliteBook X,RAM Module,2025-04-20,Memory not detected,497,100.89,Repaired
+WC-00777,T1-BAT-0117,TravelLite 12,Battery,2025-12-23,Swelling detected,495,89.85,Pending
+WC-00778,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,2026-03-27,Fan not spinning,401,208.37,Replaced
+WC-00779,AP1-FAN-0033,AeroBook Pro 14,Cooling Fan,2025-06-28,Overheating,372,287.51,Pending
+WC-00780,WEX-SSD-0185,WorkHorse EliteBook X,SSD Storage,2025-10-29,Data corruption,353,92.04,Replaced
+WC-00781,N2-KB-0080,NimbusPad 2-in-1,Keyboard Assembly,2025-08-21,Sticky keys,482,235.35,Repaired
+WC-00782,WEX-FAN-0220,WorkHorse EliteBook X,Cooling Fan,2025-08-25,Loud grinding noise,542,111.16,Repaired
+WC-00783,AA1-DSP-0095,AeroBook Air 13,Display Panel,2024-01-11,Backlight bleed,18,252.03,Replaced
+WC-00784,AA1-MB-0125,AeroBook Air 13,Motherboard,2025-06-21,Won't power on,711,142.09,Repaired
+WC-00785,T1-FAN-0218,TravelLite 12,Cooling Fan,2024-09-14,Loud grinding noise,44,21.75,Replaced
+WC-00786,AA1-BAT-0017,AeroBook Air 13,Battery,2025-08-31,Battery not detected,925,253.11,Replaced
+WC-00787,N2-FAN-0211,NimbusPad 2-in-1,Cooling Fan,2024-05-02,Loud grinding noise,886,187.34,Pending
+WC-00788,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2025-10-25,Overheating,832,290.64,Replaced
+WC-00789,T1G-KB-0209,TitanForce 15 Gaming,Keyboard Assembly,2024-09-16,Sticky keys,488,203.24,Replaced
+WC-00790,T1G-BAT-0194,TitanForce 15 Gaming,Battery,2024-10-10,Swelling detected,718,272.47,Refunded
+WC-00791,AA1-RAM-0082,AeroBook Air 13,RAM Module,2026-03-10,Blue screen / crashes,293,236.48,Pending
+WC-00792,T1-MB-0120,TravelLite 12,Motherboard,2024-03-02,No display output,988,246.65,Repaired
+WC-00793,N2-MB-0137,NimbusPad 2-in-1,Motherboard,2025-05-18,Random shutdowns,634,126.9,Pending
+WC-00794,T1-MB-0037,TravelLite 12,Motherboard,2025-07-07,Overheating / thermal shutdown,233,189.98,Replaced
+WC-00795,T1G-FAN-0275,TitanForce 15 Gaming,Cooling Fan,2026-01-02,Fan not spinning,115,24.94,Replaced
+WC-00796,T1G-DSP-0172,TitanForce 15 Gaming,Display Panel,2024-09-13,Screen flicker,29,270.51,Repaired
+WC-00797,AA1-FAN-0197,AeroBook Air 13,Cooling Fan,2024-01-01,Loud grinding noise,690,126.29,Repaired
+WC-00798,WEX-MB-0210,WorkHorse EliteBook X,Motherboard,2025-02-04,Won't power on,537,216.67,Pending
+WC-00799,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,2025-02-17,Overheating,809,246.5,Replaced
+WC-00800,WEX-MB-0166,WorkHorse EliteBook X,Motherboard,2024-01-04,Overheating / thermal shutdown,987,211.44,Pending

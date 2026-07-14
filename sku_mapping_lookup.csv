@@ -1,0 +1,201 @@
+external_ref_id,sku,model_name_variant,component_alias,source_system,confidence_flag
+EXT-a7ccc1d8,T1-SSD-0077,TravelLite 12,SSD Storage,Legacy ERP,verified
+EXT-2a9b1e80,N2-KB-0080,nimbuspad 2-in-1,Keyboard Assembly,PLM Export,verified
+EXT-210e29b1,N2-RAM-0019,NimbusPad 2-in-1,RAM MODULE,Legacy ERP,unverified
+EXT-8b990abc,T1-MB-0041,TravelLite 12,Motherboard,Manual Entry,needs_review
+EXT-119a6966,AA1-RAM-0031,aerobook air 13,RAM,Vendor Portal,verified
+EXT-bf071346,N2-KB-0061,NimbusPad 2-in-1,Keyboard Assembly,Vendor Portal,verified
+EXT-3395e589,AA1-CAM-0076,AeroBook Air 13 (Legacy),WEBCAM MODULE,Vendor Portal,needs_review
+EXT-6fe56a4b,AA1-FAN-0056,AEROBOOK AIR 13,Cooling Fan,Legacy ERP,verified
+EXT-9379bc48,T1G-CAM-0230,TitanForce15Gaming,Webcam_Module,PLM Export,needs_review
+EXT-48b03ce0,WEX-FAN-0065,WorkHorse EliteBook X,COOLING FAN,Manual Entry,needs_review
+EXT-33fee45a,AP1-MB-0300,AeroBook Pro 14,Motherboard,Vendor Portal,unverified
+EXT-7ccbbc87,N2-CAM-0038,NimbusPad 2-in-1 (Legacy),Webcam Module,Manual Entry,verified
+EXT-8ee08002,WEX-BAT-0145,WorkHorseEliteBookX,BATTERY,Manual Entry,needs_review
+EXT-4ee7eb92,T1G-BAT-0171,titanforce 15 gaming,BATTERY,Manual Entry,needs_review
+EXT-cd275883,N2-DSP-0164,NimbusPad,DSP,Vendor Portal,needs_review
+EXT-7ca2f753,WEX-MB-0123,WorkHorse Elite Book X,MOTHERBOARD,Legacy ERP,verified
+EXT-35b2c79e,T1-CAM-0247,TravelLite,WEBCAM MODULE,Legacy ERP,needs_review
+EXT-5e4ea601,AA1-RAM-0223,AeroBook Air 13,RAM Module,Vendor Portal,needs_review
+EXT-8386243c,WEX-MB-0210,WorkHorse Elite Book X,MB,Legacy ERP,unverified
+EXT-9cc7ff6f,T1-FAN-0063,TravelLite,Cooling Fan,PLM Export,verified
+EXT-5016d175,WEX-DSP-0155,WorkHorse EliteBook X,Display Panel,PLM Export,unverified
+EXT-30bec9de,WEX-SSD-0108,WorkHorse,SSD_Storage,Legacy ERP,needs_review
+EXT-4e39c0f3,AA1-CAM-0243,AEROBOOK AIR 13,Webcam_Module,PLM Export,unverified
+EXT-50626ff5,T1-BAT-0018,TravelLite 12,BAT,Vendor Portal,verified
+EXT-647861ca,AA1-BAT-0187,aerobook air 13,Battery,Vendor Portal,needs_review
+EXT-7dbb6728,WEX-CAM-0081,WorkHorseEliteBookX,Webcam_Module,Manual Entry,verified
+EXT-2c3f61ec,AP1-KB-0201,AeroBook Pro 14,Keyboard_Assembly,Manual Entry,verified
+EXT-aedd35f8,AA1-DSP-0099,AeroBook Air 13,Display_Panel,Legacy ERP,unverified
+EXT-c16a28ba,N2-RAM-0177,NimbusPad 2-in-1,RAM_Module,Manual Entry,verified
+EXT-3af98eb4,T1-DSP-0034,TRAVELLITE 12,Display_Panel,Vendor Portal,verified
+EXT-ccce5c72,T1-CAM-0026,travellite 12,WEBCAM MODULE,Legacy ERP,unverified
+EXT-86a30257,AA1-BAT-0017,aerobook air 13,Battery,Vendor Portal,unverified
+EXT-eb1d9491,AP1-CAM-0130,AeroBook Pro 14,Webcam Module,PLM Export,needs_review
+EXT-b9a7e70b,AP1-DSP-0200,AeroBook Pro. 14,Display Panel,PLM Export,verified
+EXT-6bb3fac7,AP1-BAT-0096,AeroBook Pro 14,Battery,Legacy ERP,needs_review
+EXT-99b1b984,T1G-SSD-0255,TitanForce 15 Gaming,SSD_Storage,Vendor Portal,verified
+EXT-40c563bb,T1-FAN-0238,TravelLite 12 (Legacy),Cooling Fan,Vendor Portal,unverified
+EXT-d2332227,AP1-RAM-0204,aerobook pro 14,RAM_Module,Vendor Portal,needs_review
+EXT-107f6478,WEX-MB-0166,WORKHORSE ELITEBOOK X,MOTHERBOARD,Legacy ERP,verified
+EXT-ad9205f3,T1G-DSP-0231,TITANFORCE 15 GAMING,Display Panel,Manual Entry,verified
+EXT-e3c27f51,T1-DSP-0069,TravelLite,Display_Panel,Manual Entry,needs_review
+EXT-69c1df62,T1-MB-0168,travellite 12,Motherboard,PLM Export,needs_review
+EXT-e5b0d703,N2-DSP-0217,NimbusPad 2-in-1,DISPLAY PANEL,Legacy ERP,unverified
+EXT-a32b32b7,WEX-BAT-0162,WorkHorseEliteBookX,BATTERY,Legacy ERP,needs_review
+EXT-d87b2e70,AA1-DSP-0095,AEROBOOK AIR 13,DSP,PLM Export,needs_review
+EXT-f2467496,T1-DSP-0002,TravelLite12,DISPLAY PANEL,PLM Export,unverified
+EXT-625d7880,AA1-DSP-0283,AEROBOOK AIR 13,Display_Panel,PLM Export,unverified
+EXT-aeb44ec3,WEX-CAM-0274,WorkHorse EliteBook X,WEBCAM MODULE,Legacy ERP,unverified
+EXT-6298a26e,WEX-DSP-0043,WorkHorse EliteBook X,DSP,PLM Export,needs_review
+EXT-51dffeaa,WEX-CAM-0245,WorkHorse EliteBook X,Webcam_Module,PLM Export,unverified
+EXT-fb42f519,T1-RAM-0291,TravelLite 12 (Legacy),RAM_Module,Vendor Portal,verified
+EXT-6f664b9e,AA1-KB-0107,aerobook air 13,KB,Vendor Portal,needs_review
+EXT-9514c721,T1G-SSD-0024,TitanForce,SSD Storage,Legacy ERP,unverified
+EXT-4acb8ceb,AA1-MB-0125,AeroBook Air 13,Motherboard,PLM Export,needs_review
+EXT-680c8ce9,WEX-KB-0225,WorkHorseEliteBookX,Keyboard Assembly,PLM Export,verified
+EXT-67d6a91f,AA1-FAN-0086,AEROBOOK AIR 13,COOLING FAN,PLM Export,needs_review
+EXT-1e7d7745,AA1-RAM-0289,AEROBOOK AIR 13,RAM Module,Manual Entry,verified
+EXT-0a58683c,T1-DSP-0011,TravelLite 12,Display_Panel,Legacy ERP,needs_review
+EXT-13346fe1,T1G-CAM-0227,TITANFORCE 15 GAMING,WEBCAM MODULE,Legacy ERP,needs_review
+EXT-269283d0,N2-SSD-0036,NIMBUSPAD 2-IN-1,SSD,Legacy ERP,unverified
+EXT-a3d3efc2,T1-SSD-0062,TravelLite 12,SSD,PLM Export,verified
+EXT-efa1d170,WEX-RAM-0132,workhorse elitebook x,RAM_Module,Vendor Portal,unverified
+EXT-daec547c,AA1-DSP-0280,AeroBook Air 13 (Legacy),Display_Panel,Manual Entry,needs_review
+EXT-90cb90e5,AA1-RAM-0127,AeroBook Air 13,RAM MODULE,PLM Export,unverified
+EXT-1c5a2f26,AP1-RAM-0072,AeroBook Pro 14,RAM MODULE,PLM Export,unverified
+EXT-3581f51a,T1G-FAN-0233,TitanForce,Cooling_Fan,Manual Entry,verified
+EXT-b1503e43,AA1-RAM-0052,AeroBook Ar 13,RAM Module,Manual Entry,unverified
+EXT-33149f10,WEX-SSD-0185,WorkHorseEliteBookX,SSD Storage,Legacy ERP,needs_review
+EXT-4c73d9a8,WEX-DSP-0047,WorkHorse,Display_Panel,PLM Export,unverified
+EXT-3fc0f187,WEX-BAT-0249,workhorse elitebook x,Battery,PLM Export,unverified
+EXT-f08b4d14,N2-KB-0010,NimbusPad 2-in-1,KEYBOARD ASSEMBLY,Manual Entry,verified
+EXT-1666c595,N2-FAN-0198,NimbusPad,Cooling Fan,Manual Entry,unverified
+EXT-5290a1d7,AP1-SSD-0003,AeroBook Pro 14,SSD STORAGE,Manual Entry,verified
+EXT-90cff4bb,AP1-SSD-0257,AeroBook Pro 14,SSD,Manual Entry,unverified
+EXT-6ce414d2,AA1-CAM-0093,AeroBookAir13,CAM,PLM Export,unverified
+EXT-7eb9b6fa,T1G-SSD-0183,TitanForce15Gaming,SSD Storage,PLM Export,needs_review
+EXT-3e697a81,N2-FAN-0088,NimbusPad,FAN,PLM Export,needs_review
+EXT-8f68939d,WEX-MB-0205,WorkHorse EliteBook X,MOTHERBOARD,Legacy ERP,unverified
+EXT-ef179826,T1G-FAN-0158,TitanForce 15 Gaming,Cooling_Fan,Legacy ERP,unverified
+EXT-d0e4af18,AP1-KB-0266,AeroBook Pro 14,Keyboard_Assembly,Manual Entry,verified
+EXT-112f70f8,WEX-FAN-0087,workhorse elitebook x,Cooling Fan,PLM Export,unverified
+EXT-08a7da7e,T1-DSP-0001,TravelLite 12,DISPLAY PANEL,PLM Export,needs_review
+EXT-06648e37,AA1-SSD-0027,AeroBook,SSD Storage,PLM Export,verified
+EXT-c5b4e616,AA1-RAM-0124,AeroBook Air 13,RAM,Vendor Portal,verified
+EXT-e834af65,WEX-MB-0229,WorkHorse,MOTHERBOARD,PLM Export,verified
+EXT-de53de3b,N2-DSP-0212,NimbusPad 2-in-1,DSP,Vendor Portal,needs_review
+EXT-a8142bf9,AA1-RAM-0129,AeroBook Ar 13,RAM MODULE,Manual Entry,needs_review
+EXT-5fe46c4e,T1G-DSP-0234,TitanForce 15 Gaming,Display Panel,Manual Entry,unverified
+EXT-5d66b919,AP1-BAT-0055,AeroBook Pro. 14,BATTERY,Vendor Portal,verified
+EXT-57dcab82,AA1-RAM-0244,AeroBook Air 13,RAM_Module,Manual Entry,verified
+EXT-7bffd6b2,AP1-KB-0251,AeroBook Pro 14,Keyboard_Assembly,Manual Entry,verified
+EXT-00f9e4ed,T1-KB-0175,TravelLite 12 (Legacy),Keyboard Assembly,Legacy ERP,verified
+EXT-a9f73e6b,T1-BAT-0169,TravelLite12,BATTERY,Manual Entry,verified
+EXT-35b4373a,AP1-BAT-0189,AeroBook Pro. 14,BAT,Manual Entry,needs_review
+EXT-6f2febfe,AP1-CAM-0191,aerobook pro 14,Webcam Module,Manual Entry,needs_review
+EXT-eb9a7e0c,N2-KB-0268,NimbusPad2-in-1,KEYBOARD ASSEMBLY,PLM Export,verified
+EXT-1df3d233,T1-BAT-0071,TravelLite 12,Battery,Legacy ERP,unverified
+EXT-705d3e10,AP1-BAT-0136,AEROBOOK PRO 14,BAT,Legacy ERP,unverified
+EXT-f473eb85,T1-KB-0101,TravelLite,KEYBOARD ASSEMBLY,Legacy ERP,unverified
+EXT-546f8554,T1-CAM-0203,TravelLite 12,Webcam Module,Legacy ERP,unverified
+EXT-3cb4c7e8,N2-MB-0152,NimbusPad 2-in-1,MOTHERBOARD,Legacy ERP,unverified
+EXT-a92d450a,T1-RAM-0157,TravelLite 12,RAM MODULE,Legacy ERP,unverified
+EXT-b6c2dbaf,T1-RAM-0199,TravelLite 12,RAM,Vendor Portal,verified
+EXT-bda86c34,AP1-BAT-0051,aerobook pro 14,BATTERY,Vendor Portal,verified
+EXT-bb878138,T1-CAM-0112,TravelLite 12 (Legacy),Webcam_Module,Vendor Portal,unverified
+EXT-ec5207e9,AP1-BAT-0188,AeroBook Pro 14,BATTERY,Legacy ERP,needs_review
+EXT-cb5f3e24,T1-BAT-0278,travellite 12,Battery,Vendor Portal,verified
+EXT-c075850c,T1-BAT-0117,TravelLite12,BATTERY,PLM Export,needs_review
+EXT-1b1f5a58,T1-BAT-0235,TRAVELLITE 12,BATTERY,PLM Export,verified
+EXT-4f84b7e8,T1-CAM-0267,TravelLite 12,WEBCAM MODULE,Vendor Portal,unverified
+EXT-12e69a93,T1-SSD-0141,TRAVELLITE 12,SSD,PLM Export,needs_review
+EXT-f9762ea4,AA1-RAM-0075,AeroBookAir13,RAM Module,Legacy ERP,needs_review
+EXT-0a988b62,N2-MB-0138,NimbusPad 2-in-1,Motherboard,Vendor Portal,needs_review
+EXT-8c24f873,N2-FAN-0193,NimbusPad 2-in-1 (Legacy),COOLING FAN,Legacy ERP,verified
+EXT-2bd6c06a,AA1-CAM-0012,AeroBook,CAM,Legacy ERP,verified
+EXT-7ace8ccb,T1G-CAM-0073,TitanForce 15 Gaming,Webcam Module,PLM Export,needs_review
+EXT-c6776b90,T1G-RAM-0282,TitanForce 15 Gaming (Legacy),RAM Module,Legacy ERP,verified
+EXT-5d72cfae,AA1-FAN-0005,AeroBook Air 13,Cooling Fan,PLM Export,unverified
+EXT-feeb9026,AA1-DSP-0105,aerobook air 13,DSP,PLM Export,needs_review
+EXT-2dc94163,AA1-KB-0151,AeroBookAir13,Keyboard_Assembly,Vendor Portal,unverified
+EXT-48d4842d,N2-RAM-0161,NimbusPad2-in-1,RAM MODULE,Manual Entry,unverified
+EXT-53035cb4,AP1-FAN-0269,AeroBookPro14,FAN,Vendor Portal,unverified
+EXT-e32cfef1,N2-CAM-0122,NimbusPad 2-in-1,WEBCAM MODULE,Legacy ERP,verified
+EXT-3f524371,T1-DSP-0261,TravelLite 12 (Legacy),Display_Panel,Manual Entry,needs_review
+EXT-4c274817,N2-DSP-0119,NimbusPad,Display Panel,Legacy ERP,needs_review
+EXT-c30236b1,AP1-FAN-0156,AeroBookPro14,Cooling Fan,PLM Export,needs_review
+EXT-2e997e22,T1-CAM-0147,TravelLite 12,Webcam Module,Manual Entry,unverified
+EXT-08ce1471,T1-DSP-0060,TravelLite12,Display Panel,PLM Export,needs_review
+EXT-c1e7f88e,T1G-FAN-0275,TitanForce 15 Gaming,COOLING FAN,PLM Export,verified
+EXT-24560f4c,T1G-RAM-0206,TitanForce 15 Gaming,RAM Module,PLM Export,needs_review
+EXT-6f275f28,T1-BAT-0058,TravelLite 12,Battery,Vendor Portal,needs_review
+EXT-1c9817ab,T1-BAT-0116,TravelLite 12,Battery,Vendor Portal,unverified
+EXT-4b1f4a3e,T1-SSD-0068,TravelLite 12,SSD STORAGE,PLM Export,verified
+EXT-75a8d113,T1G-DSP-0290,TitanForce 15 Gaming (Legacy),DSP,PLM Export,verified
+EXT-58a5d82a,WEX-BAT-0292,WorkHorse EliteBook X,Battery,PLM Export,needs_review
+EXT-dc61f565,AA1-KB-0059,AeroBook,Keyboard Assembly,Manual Entry,needs_review
+EXT-9344903e,WEX-FAN-0149,WorkHorse EliteBook X,Cooling Fan,Vendor Portal,unverified
+EXT-af1684f8,WEX-DSP-0066,WorkHorseEliteBookX,Display_Panel,Vendor Portal,verified
+EXT-54af4c94,N2-CAM-0102,NIMBUSPAD 2-IN-1,Webcam Module,Legacy ERP,needs_review
+EXT-e45fc998,AP1-MB-0259,AEROBOOK PRO 14,Motherboard,Legacy ERP,unverified
+EXT-d765654b,N2-CAM-0265,NimbusPad2-in-1,Webcam Module,Legacy ERP,needs_review
+EXT-d11752ec,AA1-CAM-0253,AeroBook Air 13,CAM,Legacy ERP,unverified
+EXT-614e7eaf,T1-RAM-0165,TravelLite 12,RAM_Module,Legacy ERP,needs_review
+EXT-bf0b413c,T1G-BAT-0194,TITANFORCE 15 GAMING,BATTERY,Vendor Portal,unverified
+EXT-ff93a5e7,AA1-SSD-0057,AeroBook Air 13 (Legacy),SSD Storage,Vendor Portal,unverified
+EXT-98b5e764,WEX-SSD-0208,WorkHorse EliteBook X,SSD STORAGE,Legacy ERP,needs_review
+EXT-db8d8a77,T1G-DSP-0240,TitanForce15Gaming,DSP,Vendor Portal,unverified
+EXT-9bed5f61,T1-BAT-0242,TravelLite 12,Battery,PLM Export,verified
+EXT-59ffad2e,WEX-CAM-0219,WorkHorse EliteBook X,Webcam Module,Vendor Portal,unverified
+EXT-0b7450e1,WEX-KB-0111,WorkHorse,Keyboard Assembly,Manual Entry,unverified
+EXT-c685b15c,T1G-MB-0013,TITANFORCE 15 GAMING,Motherboard,Legacy ERP,verified
+EXT-86d4eb5d,AP1-RAM-0020,AeroBook Pro 14,RAM MODULE,Manual Entry,unverified
+EXT-bd899f1e,T1-BAT-0263,TravelLite 12,Battery,Vendor Portal,needs_review
+EXT-4e9b5539,T1G-FAN-0195,TitanForce 15 Gaming,Cooling_Fan,PLM Export,unverified
+EXT-656ab411,AA1-RAM-0140,AeroBook Air 13 (Legacy),RAM Module,PLM Export,unverified
+EXT-c2f7b78c,T1-KB-0272,TravelLite12,Keyboard_Assembly,PLM Export,unverified
+EXT-207e309b,N2-BAT-0246,NimbusPad 2-in-1,Battery,Vendor Portal,unverified
+EXT-dd44090f,T1G-SSD-0214,TitanForce15Gaming,SSD,Legacy ERP,needs_review
+EXT-ed9570f5,T1-CAM-0079,TRAVELLITE 12,CAM,Legacy ERP,unverified
+EXT-7a33df06,AP1-SSD-0014,AeroBook Pro. 14,SSD STORAGE,Manual Entry,needs_review
+EXT-8df6b5ff,WEX-SSD-0128,WorkHorse EliteBook X,SSD,Vendor Portal,verified
+EXT-32ad56c9,AP1-CAM-0215,AeroBook Pro 14,WEBCAM MODULE,PLM Export,verified
+EXT-938e5049,N2-MB-0137,NIMBUSPAD 2-IN-1,Motherboard,Legacy ERP,verified
+EXT-58902c4a,T1-BAT-0074,TravelLite 12 (Legacy),Battery,Legacy ERP,needs_review
+EXT-2db97a1d,AP1-SSD-0030,AeroBook Pro 14,SSD Storage,Vendor Portal,needs_review
+EXT-71b21919,T1G-RAM-0295,TitanForce 15 Gaming,RAM MODULE,Manual Entry,unverified
+EXT-35985911,T1G-DSP-0100,TitanForce 15 Gaming,DISPLAY PANEL,Manual Entry,needs_review
+EXT-ef260366,AP1-FAN-0085,AeroBook Pro. 14,Cooling Fan,Manual Entry,unverified
+EXT-1ff2b914,N2-BAT-0046,NimbusPad 2-in-1,BATTERY,Legacy ERP,verified
+EXT-777795cd,T1-RAM-0213,TravelLite 12 (Legacy),RAM_Module,PLM Export,needs_review
+EXT-6bbf7a53,T1-FAN-0004,TravelLite 12,FAN,Vendor Portal,verified
+EXT-7a4f18fc,AA1-FAN-0110,AEROBOOK AIR 13,COOLING FAN,Manual Entry,needs_review
+EXT-99c1d89b,AP1-RAM-0021,AeroBookPro14,RAM_Module,Manual Entry,verified
+EXT-2f7139fd,T1G-BAT-0252,titanforce 15 gaming,Battery,Vendor Portal,verified
+EXT-a15c8f89,AP1-RAM-0083,AeroBook,RAM Module,Manual Entry,unverified
+EXT-3b9efa6c,WEX-CAM-0032,WorkHorse EliteBook X (Legacy),WEBCAM MODULE,Vendor Portal,unverified
+EXT-6da16db0,N2-DSP-0178,NimbusPad 2-in-1,Display Panel,PLM Export,unverified
+EXT-16867246,T1-FAN-0154,TravelLite 12,Cooling_Fan,Vendor Portal,needs_review
+EXT-fa789af6,T1-DSP-0228,TravelLite12,Display_Panel,PLM Export,needs_review
+EXT-34813eaa,T1-CAM-0150,TRAVELLITE 12,Webcam Module,Manual Entry,unverified
+EXT-f9c02443,N2-KB-0179,NimbusPad 2-in-1,KB,Vendor Portal,unverified
+EXT-273a5972,AA1-KB-0221,AeroBook Air 13,Keyboard Assembly,PLM Export,needs_review
+EXT-7845f0bc,N2-RAM-0094,nimbuspad 2-in-1,RAM_Module,PLM Export,needs_review
+EXT-94f988f8,WEX-FAN-0271,WorkHorse EliteBook X,COOLING FAN,Vendor Portal,unverified
+EXT-14ed4c54,T1-RAM-0022,TravelLite12,RAM,Legacy ERP,needs_review
+EXT-797a3f1b,T1-RAM-0133,TravelLite 12,RAM Module,Vendor Portal,needs_review
+EXT-675c71c7,N2-FAN-0211,NIMBUSPAD 2-IN-1,Cooling_Fan,PLM Export,verified
+EXT-b637a4e9,AA1-MB-0184,AeroBook Air 13,MOTHERBOARD,Vendor Portal,verified
+EXT-e2e94fb0,AP1-FAN-0033,AeroBook Pro 14,Cooling_Fan,Vendor Portal,needs_review
+EXT-772b871b,AA1-CAM-0054,aerobook air 13,CAM,PLM Export,verified
+EXT-843b46cc,WEX-RAM-0146,workhorse elitebook x,RAM Module,Legacy ERP,needs_review
+EXT-afb77229,T1G-CAM-0139,TitanForce,CAM,Legacy ERP,needs_review
+EXT-2353d7ab,T1-FAN-0218,TRAVELLITE 12,COOLING FAN,PLM Export,needs_review
+EXT-164d0827,N2-CAM-0118,nimbuspad 2-in-1,WEBCAM MODULE,Manual Entry,verified
+EXT-01e3d73c,AA1-CAM-0143,AeroBookAir13,CAM,Vendor Portal,verified
+EXT-d6f7924c,N2-CAM-0232,NIMBUSPAD 2-IN-1,CAM,Legacy ERP,needs_review
+EXT-93166dd8,AA1-DSP-0121,aerobook air 13,Display Panel,Manual Entry,unverified
+EXT-5db046f7,AP1-MB-0098,AeroBook Pro 14 (Legacy),Motherboard,Manual Entry,needs_review
+EXT-2d335a6b,T1-MB-0037,TravelLite 12 (Legacy),Motherboard,Legacy ERP,verified
+EXT-0c5ad4d7,T1-CAM-0040,TravelLite 12,Webcam Module,Legacy ERP,needs_review
