@@ -1,0 +1,301 @@
+sku,laptop_model,component_name,manufacturer,unit_cost_usd,units_shipped,warranty_claims_90d,failure_rate,warranty_period_months,release_date
+T1-DSP-0001,TravelLite 12,Display Panel,Pegatron,13.3,3858,18,0.0167,12,2023-08-28
+N2-MB-0002,NimbusPad 2-in-1,Motherboard,Pegatron,14.32,1369,90,0.147,12,2024-01-04
+T1-FAN-0003,TravelLite 12,Cooling Fan,Delta Electronics,54.73,712,17,0.0637,36,2023-03-09
+T1G-RAM-0004,TitanForce 15 Gaming,RAM Module,Quanta Computer,40.96,3539,24,0.0562,12,2023-01-03
+T1G-RAM-0005,TitanForce 15 Gaming,RAM Module,Foxlink Corp,179.11,12903,0,0.0253,36,2022-10-28
+T1-KB-0006,TravelLite 12,Keyboard Assembly,Wistron,130.4,7967,24,0.0574,12,2024-05-25
+AA1-DSP-0007,AeroBook Air 13,Display Panel,Wistron,88.59,5829,10,0.005,24,2022-08-03
+T1-RAM-0008,TravelLite 12,RAM Module,Pegatron,156.79,6107,7,0.0253,36,2022-09-08
+AA1-CAM-0009,AeroBook Air 13,Webcam Module,Delta Electronics,88.44,18750,29,0.0628,36,2022-11-29
+AP1-SSD-0010,AeroBook Pro 14,SSD Storage,Delta Electronics,182.22,2668,10,0.0503,36,2024-06-16
+T1-KB-0011,TravelLite 12,Keyboard Assembly,Delta Electronics,53.08,15535,2,0.005,24,2022-05-23
+AA1-RAM-0012,AeroBook Air 13,RAM Module,Delta Electronics,166.37,12361,11,0.005,12,2023-06-06
+N2-DSP-0013,NimbusPad 2-in-1,Display Panel,Quanta Computer,168.23,5742,8,0.0311,36,2022-03-07
+N2-FAN-0014,NimbusPad 2-in-1,Cooling Fan,Foxlink Corp,134.33,18628,46,0.0876,36,2024-01-09
+AP1-RAM-0015,AeroBook Pro 14,RAM Module,Quanta Computer,170.94,5682,18,0.0166,12,2024-01-10
+T1-RAM-0016,TravelLite 12,RAM Module,Wistron,214.04,3986,0,0.0327,36,2023-06-04
+WEX-SSD-0017,WorkHorse EliteBook X,SSD Storage,Foxlink Corp,40.4,17878,2,0.0429,36,2022-11-28
+N2-MB-0018,NimbusPad 2-in-1,Motherboard,Delta Electronics,31.72,10576,74,0.0832,12,2022-09-04
+WEX-DSP-0019,WorkHorse EliteBook X,Display Panel,Delta Electronics,26.16,17955,4,0.0087,12,2023-11-07
+N2-BAT-0020,NimbusPad 2-in-1,Battery,Pegatron,64.19,7440,44,0.1119,36,2023-12-08
+AA1-RAM-0021,AeroBook Air 13,RAM Module,Quanta Computer,92.59,17459,0,0.0163,12,2022-09-11
+AA1-DSP-0022,AeroBook Air 13,Display Panel,Foxlink Corp,79.67,7716,0,0.005,12,2023-12-26
+T1-MB-0023,TravelLite 12,Motherboard,Pegatron,56.54,2821,78,0.1893,12,2022-10-13
+T1-CAM-0024,TravelLite 12,Webcam Module,Pegatron,53.42,19211,59,0.0673,24,2022-09-06
+N2-FAN-0025,NimbusPad 2-in-1,Cooling Fan,Quanta Computer,48.37,14379,77,0.1361,24,2024-06-03
+T1-MB-0026,TravelLite 12,Motherboard,Wistron,150.75,13693,76,0.1536,12,2022-09-12
+AA1-SSD-0027,AeroBook Air 13,SSD Storage,Delta Electronics,121.69,15659,33,0.0522,12,2023-03-30
+WEX-DSP-0028,WorkHorse EliteBook X,Display Panel,Delta Electronics,18.72,3556,38,0.077,12,2023-02-21
+N2-CAM-0029,NimbusPad 2-in-1,Webcam Module,Foxlink Corp,53.31,12918,8,0.0115,24,2022-09-29
+N2-RAM-0030,NimbusPad 2-in-1,RAM Module,Quanta Computer,97.68,18711,49,0.1249,12,2022-07-14
+T1G-SSD-0031,TitanForce 15 Gaming,SSD Storage,Foxlink Corp,213.37,10776,0,0.007,12,2023-08-22
+N2-BAT-0032,NimbusPad 2-in-1,Battery,Pegatron,20.06,2745,14,0.0315,12,2023-11-23
+AA1-FAN-0033,AeroBook Air 13,Cooling Fan,Foxlink Corp,33.42,19981,56,0.1274,36,2022-03-25
+N2-KB-0034,NimbusPad 2-in-1,Keyboard Assembly,Wistron,206.16,8321,59,0.0735,24,2022-05-15
+T1-RAM-0035,TravelLite 12,RAM Module,Quanta Computer,104.93,805,31,0.0934,36,2023-07-31
+AP1-DSP-0036,AeroBook Pro 14,Display Panel,Foxlink Corp,121.98,11936,2,0.005,12,2023-01-14
+T1G-BAT-0037,TitanForce 15 Gaming,Battery,Foxlink Corp,100.9,17832,29,0.0655,36,2024-04-16
+WEX-RAM-0038,WorkHorse EliteBook X,RAM Module,Foxlink Corp,205.53,9166,58,0.079,12,2024-01-31
+WEX-BAT-0039,WorkHorse EliteBook X,Battery,Wistron,65.74,7171,11,0.0523,36,2023-05-16
+T1G-MB-0040,TitanForce 15 Gaming,Motherboard,Wistron,27.57,616,64,0.1186,12,2023-10-15
+T1G-BAT-0041,TitanForce 15 Gaming,Battery,Foxlink Corp,165.14,816,24,0.06,12,2023-12-09
+AA1-MB-0042,AeroBook Air 13,Motherboard,Foxlink Corp,184.93,4676,58,0.1252,24,2023-01-09
+AP1-KB-0043,AeroBook Pro 14,Keyboard Assembly,Quanta Computer,52.54,18846,36,0.06,36,2024-02-07
+AA1-SSD-0044,AeroBook Air 13,SSD Storage,Foxlink Corp,191.3,14010,42,0.0941,12,2024-01-25
+T1G-FAN-0045,TitanForce 15 Gaming,Cooling Fan,Delta Electronics,178.07,9242,52,0.146,36,2022-04-21
+N2-MB-0046,NimbusPad 2-in-1,Motherboard,Wistron,190.02,15583,101,0.1495,24,2024-04-20
+AA1-SSD-0047,AeroBook Air 13,SSD Storage,Wistron,13.02,2774,37,0.0494,24,2023-10-19
+WEX-FAN-0048,WorkHorse EliteBook X,Cooling Fan,Foxlink Corp,152.06,1404,51,0.1249,24,2022-07-02
+WEX-RAM-0049,WorkHorse EliteBook X,RAM Module,Quanta Computer,16.11,10778,0,0.0073,36,2023-06-08
+AP1-FAN-0050,AeroBook Pro 14,Cooling Fan,Foxlink Corp,198.7,14788,60,0.1133,36,2024-04-05
+WEX-SSD-0051,WorkHorse EliteBook X,SSD Storage,Pegatron,85.21,11319,49,0.0801,24,2023-11-11
+AP1-RAM-0052,AeroBook Pro 14,RAM Module,Pegatron,115.51,10188,0,0.0167,12,2022-07-16
+N2-FAN-0053,NimbusPad 2-in-1,Cooling Fan,Quanta Computer,151.59,10361,60,0.144,36,2024-05-03
+AP1-RAM-0054,AeroBook Pro 14,RAM Module,Quanta Computer,68.83,11059,10,0.005,24,2023-03-29
+T1-SSD-0055,TravelLite 12,SSD Storage,Foxlink Corp,116.37,6060,0,0.0606,24,2023-06-12
+T1-KB-0056,TravelLite 12,Keyboard Assembly,Delta Electronics,27.8,10671,37,0.081,12,2022-05-31
+AP1-MB-0057,AeroBook Pro 14,Motherboard,Quanta Computer,59.91,2886,45,0.0823,24,2023-10-07
+WEX-SSD-0058,WorkHorse EliteBook X,SSD Storage,Foxlink Corp,160.29,5335,18,0.0174,12,2024-03-08
+N2-SSD-0059,NimbusPad 2-in-1,SSD Storage,Pegatron,45.29,2145,32,0.075,12,2024-05-18
+AP1-CAM-0060,AeroBook Pro 14,Webcam Module,Pegatron,36.27,18814,6,0.005,24,2024-02-13
+N2-FAN-0061,NimbusPad 2-in-1,Cooling Fan,Quanta Computer,184.08,16054,14,0.0489,24,2024-02-09
+AA1-RAM-0062,AeroBook Air 13,RAM Module,Quanta Computer,170.35,9498,0,0.005,12,2024-01-01
+T1G-SSD-0063,TitanForce 15 Gaming,SSD Storage,Delta Electronics,65.6,5034,28,0.0241,12,2023-01-28
+T1-BAT-0064,TravelLite 12,Battery,Quanta Computer,157.76,18280,65,0.1182,24,2022-03-05
+AA1-FAN-0065,AeroBook Air 13,Cooling Fan,Pegatron,90.57,1140,23,0.119,24,2023-05-04
+AP1-KB-0066,AeroBook Pro 14,Keyboard Assembly,Pegatron,71.31,14230,25,0.0113,36,2024-01-23
+WEX-SSD-0067,WorkHorse EliteBook X,SSD Storage,Wistron,111.5,13242,34,0.035,36,2023-11-27
+N2-BAT-0068,NimbusPad 2-in-1,Battery,Foxlink Corp,186.19,18002,61,0.1638,24,2023-08-30
+WEX-MB-0069,WorkHorse EliteBook X,Motherboard,Foxlink Corp,25.8,6454,55,0.0857,24,2023-01-24
+T1G-SSD-0070,TitanForce 15 Gaming,SSD Storage,Quanta Computer,104.4,9617,30,0.0077,24,2024-05-04
+AP1-CAM-0071,AeroBook Pro 14,Webcam Module,Delta Electronics,12.11,11967,0,0.005,36,2022-03-12
+T1-MB-0072,TravelLite 12,Motherboard,Pegatron,167.9,1167,76,0.159,12,2022-09-02
+AA1-CAM-0073,AeroBook Air 13,Webcam Module,Wistron,149.93,8896,0,0.005,12,2023-09-13
+WEX-DSP-0074,WorkHorse EliteBook X,Display Panel,Foxlink Corp,172.89,19462,27,0.0334,24,2023-08-13
+T1-FAN-0075,TravelLite 12,Cooling Fan,Foxlink Corp,92.09,8457,47,0.1074,36,2024-03-02
+T1G-DSP-0076,TitanForce 15 Gaming,Display Panel,Quanta Computer,176.8,17956,4,0.012,36,2023-01-15
+AP1-KB-0077,AeroBook Pro 14,Keyboard Assembly,Wistron,10.68,14705,23,0.0295,36,2024-04-28
+N2-BAT-0078,NimbusPad 2-in-1,Battery,Pegatron,100.32,9350,2,0.0821,36,2024-03-04
+N2-CAM-0079,NimbusPad 2-in-1,Webcam Module,Foxlink Corp,100.34,8544,0,0.0172,24,2023-04-07
+AA1-CAM-0080,AeroBook Air 13,Webcam Module,Wistron,128.81,16697,0,0.0066,12,2023-05-15
+AA1-KB-0081,AeroBook Air 13,Keyboard Assembly,Pegatron,177.14,9552,39,0.0268,12,2023-06-14
+AA1-DSP-0082,AeroBook Air 13,Display Panel,Quanta Computer,59.17,8374,13,0.005,36,2023-12-30
+N2-CAM-0083,NimbusPad 2-in-1,Webcam Module,Wistron,176.1,8472,24,0.0377,36,2023-08-19
+T1G-CAM-0084,TitanForce 15 Gaming,Webcam Module,Wistron,125.34,18535,44,0.005,24,2023-12-21
+N2-RAM-0085,NimbusPad 2-in-1,RAM Module,Foxlink Corp,73.0,10839,41,0.0358,36,2023-07-03
+T1-BAT-0086,TravelLite 12,Battery,Pegatron,48.61,19819,32,0.0883,36,2022-10-17
+AP1-SSD-0087,AeroBook Pro 14,SSD Storage,Delta Electronics,70.8,18002,21,0.0237,24,2022-02-16
+AP1-RAM-0088,AeroBook Pro 14,RAM Module,Foxlink Corp,155.85,16585,57,0.0724,12,2023-08-11
+T1G-CAM-0089,TitanForce 15 Gaming,Webcam Module,Quanta Computer,109.49,8773,35,0.005,12,2024-04-21
+AP1-FAN-0090,AeroBook Pro 14,Cooling Fan,Delta Electronics,112.25,5471,24,0.0696,36,2022-11-08
+AP1-SSD-0091,AeroBook Pro 14,SSD Storage,Pegatron,33.11,7895,1,0.0437,24,2023-04-07
+N2-RAM-0092,NimbusPad 2-in-1,RAM Module,Pegatron,190.36,2473,26,0.0556,36,2022-04-12
+AA1-SSD-0093,AeroBook Air 13,SSD Storage,Foxlink Corp,64.1,18587,35,0.0594,12,2022-01-03
+N2-CAM-0094,NimbusPad 2-in-1,Webcam Module,Wistron,154.15,9940,6,0.0124,36,2024-05-30
+N2-DSP-0095,NimbusPad 2-in-1,Display Panel,Delta Electronics,153.73,19826,21,0.0669,24,2022-04-28
+WEX-SSD-0096,WorkHorse EliteBook X,SSD Storage,Foxlink Corp,145.3,2839,28,0.0871,12,2024-03-22
+T1G-RAM-0097,TitanForce 15 Gaming,RAM Module,Wistron,101.1,13689,4,0.005,36,2023-07-07
+N2-CAM-0098,NimbusPad 2-in-1,Webcam Module,Pegatron,25.05,11061,29,0.0509,24,2022-01-27
+AP1-SSD-0099,AeroBook Pro 14,SSD Storage,Wistron,211.93,1179,13,0.0602,36,2022-02-11
+AA1-CAM-0100,AeroBook Air 13,Webcam Module,Quanta Computer,118.02,19680,6,0.005,36,2024-04-13
+N2-DSP-0101,NimbusPad 2-in-1,Display Panel,Delta Electronics,107.64,3927,9,0.005,24,2023-02-26
+T1-CAM-0102,TravelLite 12,Webcam Module,Foxlink Corp,69.1,18525,26,0.0718,24,2022-04-01
+T1G-RAM-0103,TitanForce 15 Gaming,RAM Module,Foxlink Corp,76.53,17362,27,0.06,36,2024-06-09
+WEX-CAM-0104,WorkHorse EliteBook X,Webcam Module,Quanta Computer,95.61,16834,28,0.0309,12,2022-07-28
+T1G-BAT-0105,TitanForce 15 Gaming,Battery,Foxlink Corp,204.67,4478,32,0.047,36,2023-09-16
+AA1-BAT-0106,AeroBook Air 13,Battery,Foxlink Corp,73.88,7862,61,0.1206,24,2022-05-01
+T1-BAT-0107,TravelLite 12,Battery,Quanta Computer,113.66,9459,23,0.0825,24,2023-04-29
+AA1-CAM-0108,AeroBook Air 13,Webcam Module,Delta Electronics,124.87,17154,25,0.005,12,2022-10-10
+N2-KB-0109,NimbusPad 2-in-1,Keyboard Assembly,Wistron,206.06,9768,1,0.005,36,2023-08-17
+T1-CAM-0110,TravelLite 12,Webcam Module,Pegatron,191.44,11393,8,0.005,36,2023-01-22
+N2-KB-0111,NimbusPad 2-in-1,Keyboard Assembly,Delta Electronics,192.36,13049,39,0.082,24,2022-02-14
+T1G-CAM-0112,TitanForce 15 Gaming,Webcam Module,Quanta Computer,157.51,5484,1,0.0312,12,2022-05-10
+WEX-KB-0113,WorkHorse EliteBook X,Keyboard Assembly,Quanta Computer,192.38,17734,29,0.0827,12,2024-01-10
+AA1-FAN-0114,AeroBook Air 13,Cooling Fan,Wistron,192.64,9184,59,0.1216,36,2023-12-11
+N2-DSP-0115,NimbusPad 2-in-1,Display Panel,Wistron,188.57,12952,4,0.0556,36,2024-01-06
+N2-MB-0116,NimbusPad 2-in-1,Motherboard,Delta Electronics,138.9,9916,94,0.1444,36,2022-04-03
+N2-DSP-0117,NimbusPad 2-in-1,Display Panel,Wistron,169.2,5951,1,0.0161,12,2022-02-17
+T1G-MB-0118,TitanForce 15 Gaming,Motherboard,Quanta Computer,70.19,17905,70,0.1281,36,2023-11-30
+AA1-BAT-0119,AeroBook Air 13,Battery,Quanta Computer,45.11,8391,24,0.0672,36,2022-05-27
+AA1-CAM-0120,AeroBook Air 13,Webcam Module,Wistron,143.24,15745,8,0.005,36,2023-07-14
+AA1-DSP-0121,AeroBook Air 13,Display Panel,Wistron,101.65,14403,18,0.005,24,2024-05-15
+T1G-SSD-0122,TitanForce 15 Gaming,SSD Storage,Pegatron,219.87,12996,18,0.0486,24,2023-08-12
+T1G-RAM-0123,TitanForce 15 Gaming,RAM Module,Pegatron,12.65,765,9,0.0445,36,2024-03-07
+T1-MB-0124,TravelLite 12,Motherboard,Delta Electronics,201.05,9878,40,0.1383,36,2024-04-01
+T1G-SSD-0125,TitanForce 15 Gaming,SSD Storage,Foxlink Corp,142.96,4981,0,0.0073,36,2023-10-24
+AP1-RAM-0126,AeroBook Pro 14,RAM Module,Foxlink Corp,175.19,4806,31,0.058,24,2022-12-01
+T1-FAN-0127,TravelLite 12,Cooling Fan,Pegatron,45.24,12488,81,0.1352,36,2022-10-07
+AA1-RAM-0128,AeroBook Air 13,RAM Module,Wistron,201.78,10171,38,0.1037,12,2023-04-25
+AP1-BAT-0129,AeroBook Pro 14,Battery,Pegatron,167.88,13522,70,0.0969,24,2022-04-03
+N2-MB-0130,NimbusPad 2-in-1,Motherboard,Pegatron,64.07,9090,90,0.1605,24,2024-04-22
+T1-KB-0131,TravelLite 12,Keyboard Assembly,Wistron,30.97,18896,33,0.0607,36,2022-08-15
+T1-DSP-0132,TravelLite 12,Display Panel,Foxlink Corp,142.71,13879,7,0.005,12,2022-02-16
+AP1-RAM-0133,AeroBook Pro 14,RAM Module,Delta Electronics,219.14,18114,30,0.0464,24,2023-04-10
+T1G-FAN-0134,TitanForce 15 Gaming,Cooling Fan,Quanta Computer,132.52,3744,19,0.1009,36,2023-02-22
+T1G-MB-0135,TitanForce 15 Gaming,Motherboard,Wistron,154.34,8236,89,0.1466,12,2023-12-04
+T1G-KB-0136,TitanForce 15 Gaming,Keyboard Assembly,Foxlink Corp,20.84,15400,62,0.0472,36,2022-08-06
+T1-MB-0137,TravelLite 12,Motherboard,Delta Electronics,18.72,19000,86,0.0949,12,2024-04-29
+WEX-SSD-0138,WorkHorse EliteBook X,SSD Storage,Pegatron,132.31,5335,14,0.0484,12,2022-10-11
+AA1-BAT-0139,AeroBook Air 13,Battery,Delta Electronics,122.53,1344,40,0.0943,12,2023-01-02
+AA1-KB-0140,AeroBook Air 13,Keyboard Assembly,Pegatron,11.35,14294,37,0.0585,12,2024-02-03
+AP1-CAM-0141,AeroBook Pro 14,Webcam Module,Pegatron,103.03,15311,17,0.005,12,2023-09-22
+AP1-RAM-0142,AeroBook Pro 14,RAM Module,Quanta Computer,105.11,16195,19,0.0404,24,2023-12-04
+AP1-CAM-0143,AeroBook Pro 14,Webcam Module,Pegatron,159.03,11054,13,0.005,12,2022-03-09
+AA1-RAM-0144,AeroBook Air 13,RAM Module,Pegatron,140.36,12981,0,0.005,36,2022-10-29
+N2-FAN-0145,NimbusPad 2-in-1,Cooling Fan,Delta Electronics,29.03,18566,18,0.0925,24,2023-04-08
+AA1-FAN-0146,AeroBook Air 13,Cooling Fan,Wistron,79.85,3615,44,0.0802,24,2022-11-17
+T1-RAM-0147,TravelLite 12,RAM Module,Foxlink Corp,87.35,2699,62,0.069,12,2022-04-06
+N2-DSP-0148,NimbusPad 2-in-1,Display Panel,Pegatron,165.85,2465,10,0.009,36,2023-07-30
+T1G-DSP-0149,TitanForce 15 Gaming,Display Panel,Foxlink Corp,95.09,14358,9,0.07,24,2023-09-07
+T1G-KB-0150,TitanForce 15 Gaming,Keyboard Assembly,Delta Electronics,29.96,16300,20,0.0426,12,2022-12-25
+WEX-KB-0151,WorkHorse EliteBook X,Keyboard Assembly,Pegatron,32.36,14561,38,0.0562,36,2023-09-21
+T1-MB-0152,TravelLite 12,Motherboard,Delta Electronics,137.11,1448,38,0.1148,24,2023-12-21
+T1G-KB-0153,TitanForce 15 Gaming,Keyboard Assembly,Foxlink Corp,82.42,13632,41,0.067,12,2024-01-29
+T1-MB-0154,TravelLite 12,Motherboard,Wistron,27.45,15365,52,0.1114,12,2023-01-14
+T1G-KB-0155,TitanForce 15 Gaming,Keyboard Assembly,Delta Electronics,172.69,2223,21,0.0485,12,2024-02-12
+WEX-MB-0156,WorkHorse EliteBook X,Motherboard,Pegatron,150.88,16414,88,0.1339,24,2023-03-01
+T1G-SSD-0157,TitanForce 15 Gaming,SSD Storage,Pegatron,168.05,9781,42,0.064,24,2023-06-24
+T1-RAM-0158,TravelLite 12,RAM Module,Delta Electronics,17.63,751,14,0.005,24,2022-08-05
+AA1-RAM-0159,AeroBook Air 13,RAM Module,Delta Electronics,69.36,14611,39,0.0557,12,2023-01-25
+WEX-SSD-0160,WorkHorse EliteBook X,SSD Storage,Quanta Computer,114.06,2861,10,0.0672,36,2022-02-13
+N2-MB-0161,NimbusPad 2-in-1,Motherboard,Pegatron,105.47,14566,87,0.1629,24,2023-12-28
+T1-FAN-0162,TravelLite 12,Cooling Fan,Pegatron,69.38,6131,44,0.0454,24,2024-05-01
+T1-KB-0163,TravelLite 12,Keyboard Assembly,Quanta Computer,26.68,19796,26,0.0725,36,2022-03-22
+N2-RAM-0164,NimbusPad 2-in-1,RAM Module,Pegatron,166.11,3002,45,0.0393,36,2022-04-27
+WEX-SSD-0165,WorkHorse EliteBook X,SSD Storage,Delta Electronics,200.06,5339,25,0.0117,12,2022-05-30
+T1G-SSD-0166,TitanForce 15 Gaming,SSD Storage,Delta Electronics,44.78,2969,55,0.069,36,2023-05-21
+N2-CAM-0167,NimbusPad 2-in-1,Webcam Module,Wistron,152.4,11090,11,0.0518,12,2023-03-27
+AP1-CAM-0168,AeroBook Pro 14,Webcam Module,Wistron,101.75,2340,17,0.0122,36,2022-03-17
+T1G-CAM-0169,TitanForce 15 Gaming,Webcam Module,Foxlink Corp,103.81,3014,46,0.0731,36,2023-09-01
+WEX-FAN-0170,WorkHorse EliteBook X,Cooling Fan,Quanta Computer,106.09,1844,21,0.0599,36,2023-10-30
+AA1-KB-0171,AeroBook Air 13,Keyboard Assembly,Foxlink Corp,136.26,15262,2,0.005,24,2024-01-02
+AP1-BAT-0172,AeroBook Pro 14,Battery,Pegatron,16.3,17672,0,0.0658,36,2022-06-12
+T1G-KB-0173,TitanForce 15 Gaming,Keyboard Assembly,Wistron,202.6,2215,27,0.0206,12,2022-12-04
+AP1-FAN-0174,AeroBook Pro 14,Cooling Fan,Wistron,68.24,5427,29,0.1028,12,2023-08-20
+T1-BAT-0175,TravelLite 12,Battery,Delta Electronics,202.35,13343,57,0.0738,36,2023-12-27
+AP1-RAM-0176,AeroBook Pro 14,RAM Module,Pegatron,126.49,4687,0,0.0134,12,2023-10-24
+T1-FAN-0177,TravelLite 12,Cooling Fan,Wistron,115.8,7518,69,0.1356,24,2022-07-16
+AA1-BAT-0178,AeroBook Air 13,Battery,Pegatron,40.85,17135,62,0.075,36,2023-06-24
+AP1-KB-0179,AeroBook Pro 14,Keyboard Assembly,Delta Electronics,193.8,5554,1,0.0302,12,2024-05-01
+T1-BAT-0180,TravelLite 12,Battery,Quanta Computer,160.89,8283,62,0.1175,36,2022-10-19
+T1-CAM-0181,TravelLite 12,Webcam Module,Delta Electronics,57.61,15868,51,0.0253,24,2023-11-26
+WEX-CAM-0182,WorkHorse EliteBook X,Webcam Module,Quanta Computer,105.88,17783,21,0.0142,12,2024-04-16
+AA1-BAT-0183,AeroBook Air 13,Battery,Pegatron,193.08,12663,66,0.1225,12,2023-12-30
+WEX-DSP-0184,WorkHorse EliteBook X,Display Panel,Delta Electronics,68.43,17321,0,0.022,24,2022-04-04
+AA1-CAM-0185,AeroBook Air 13,Webcam Module,Pegatron,195.54,13491,17,0.0481,24,2022-08-30
+N2-DSP-0186,NimbusPad 2-in-1,Display Panel,Delta Electronics,87.48,11486,50,0.0883,12,2022-02-09
+T1G-CAM-0187,TitanForce 15 Gaming,Webcam Module,Pegatron,155.57,15199,43,0.0502,12,2022-03-23
+AP1-RAM-0188,AeroBook Pro 14,RAM Module,Quanta Computer,53.72,17794,64,0.072,12,2024-03-05
+T1G-SSD-0189,TitanForce 15 Gaming,SSD Storage,Foxlink Corp,71.84,15478,39,0.0699,12,2024-05-06
+N2-MB-0190,NimbusPad 2-in-1,Motherboard,Quanta Computer,141.97,10044,37,0.0974,12,2023-09-22
+T1G-SSD-0191,TitanForce 15 Gaming,SSD Storage,Wistron,128.98,17653,49,0.0571,12,2023-06-23
+WEX-MB-0192,WorkHorse EliteBook X,Motherboard,Wistron,90.78,12732,53,0.0981,36,2022-01-17
+T1G-DSP-0193,TitanForce 15 Gaming,Display Panel,Wistron,81.1,19567,0,0.0155,12,2022-02-15
+T1G-KB-0194,TitanForce 15 Gaming,Keyboard Assembly,Quanta Computer,180.46,15724,65,0.0836,36,2022-07-06
+AA1-DSP-0195,AeroBook Air 13,Display Panel,Foxlink Corp,159.8,7105,12,0.0277,12,2022-02-12
+T1G-RAM-0196,TitanForce 15 Gaming,RAM Module,Foxlink Corp,117.26,8800,32,0.0675,36,2022-07-15
+T1G-KB-0197,TitanForce 15 Gaming,Keyboard Assembly,Foxlink Corp,190.77,9452,57,0.1018,24,2023-03-24
+N2-CAM-0198,NimbusPad 2-in-1,Webcam Module,Quanta Computer,197.66,16759,28,0.005,24,2024-03-27
+WEX-RAM-0199,WorkHorse EliteBook X,RAM Module,Pegatron,177.84,6413,8,0.0283,24,2022-11-25
+AP1-DSP-0200,AeroBook Pro 14,Display Panel,Delta Electronics,77.52,14462,21,0.0108,36,2023-03-31
+T1G-CAM-0201,TitanForce 15 Gaming,Webcam Module,Wistron,16.98,14752,9,0.0392,36,2024-03-21
+AP1-DSP-0202,AeroBook Pro 14,Display Panel,Foxlink Corp,150.29,5742,12,0.005,12,2024-05-19
+WEX-CAM-0203,WorkHorse EliteBook X,Webcam Module,Wistron,15.38,12503,44,0.0675,24,2023-08-04
+AP1-BAT-0204,AeroBook Pro 14,Battery,Pegatron,151.96,3019,54,0.1175,12,2023-06-27
+T1G-FAN-0205,TitanForce 15 Gaming,Cooling Fan,Delta Electronics,74.65,1349,85,0.0963,24,2023-06-15
+N2-DSP-0206,NimbusPad 2-in-1,Display Panel,Quanta Computer,63.5,9857,25,0.0179,12,2022-05-06
+AA1-DSP-0207,AeroBook Air 13,Display Panel,Wistron,103.83,3376,13,0.0462,36,2022-12-22
+T1-DSP-0208,TravelLite 12,Display Panel,Delta Electronics,124.6,5661,19,0.0136,24,2023-06-05
+AA1-DSP-0209,AeroBook Air 13,Display Panel,Foxlink Corp,216.85,16688,2,0.0258,24,2023-07-22
+WEX-KB-0210,WorkHorse EliteBook X,Keyboard Assembly,Foxlink Corp,107.09,3325,37,0.0757,24,2023-02-12
+T1-CAM-0211,TravelLite 12,Webcam Module,Delta Electronics,119.45,2916,0,0.0267,24,2023-10-20
+AP1-CAM-0212,AeroBook Pro 14,Webcam Module,Pegatron,106.76,18565,1,0.005,12,2024-02-26
+AA1-FAN-0213,AeroBook Air 13,Cooling Fan,Delta Electronics,114.61,17477,53,0.1483,24,2022-06-18
+AA1-KB-0214,AeroBook Air 13,Keyboard Assembly,Wistron,206.16,17503,71,0.0712,12,2022-09-14
+AA1-RAM-0215,AeroBook Air 13,RAM Module,Delta Electronics,34.54,16968,26,0.0179,36,2023-08-18
+AA1-BAT-0216,AeroBook Air 13,Battery,Foxlink Corp,147.65,18968,21,0.0825,12,2022-03-25
+AP1-RAM-0217,AeroBook Pro 14,RAM Module,Quanta Computer,146.04,1492,1,0.0333,36,2023-07-13
+T1G-RAM-0218,TitanForce 15 Gaming,RAM Module,Quanta Computer,110.38,10246,1,0.0454,12,2023-12-07
+AP1-BAT-0219,AeroBook Pro 14,Battery,Wistron,101.2,5207,35,0.0698,36,2022-11-23
+T1-KB-0220,TravelLite 12,Keyboard Assembly,Foxlink Corp,214.78,18904,50,0.0797,24,2022-09-05
+N2-DSP-0221,NimbusPad 2-in-1,Display Panel,Quanta Computer,64.7,10009,16,0.0202,36,2023-03-05
+AA1-BAT-0222,AeroBook Air 13,Battery,Delta Electronics,180.46,6720,57,0.1338,24,2023-06-12
+N2-CAM-0223,NimbusPad 2-in-1,Webcam Module,Pegatron,194.36,13385,3,0.007,24,2022-09-04
+AA1-KB-0224,AeroBook Air 13,Keyboard Assembly,Wistron,18.32,15920,45,0.0521,36,2022-01-09
+AP1-FAN-0225,AeroBook Pro 14,Cooling Fan,Wistron,36.39,13713,67,0.1074,12,2023-02-15
+AP1-SSD-0226,AeroBook Pro 14,SSD Storage,Pegatron,84.86,15257,30,0.0329,24,2024-04-25
+WEX-DSP-0227,WorkHorse EliteBook X,Display Panel,Pegatron,35.28,11611,30,0.0438,24,2024-02-13
+AA1-SSD-0228,AeroBook Air 13,SSD Storage,Delta Electronics,135.72,1775,18,0.033,36,2022-12-08
+N2-CAM-0229,NimbusPad 2-in-1,Webcam Module,Delta Electronics,39.58,10937,11,0.0329,24,2023-09-24
+T1-RAM-0230,TravelLite 12,RAM Module,Pegatron,133.87,16551,1,0.005,24,2023-05-02
+AP1-KB-0231,AeroBook Pro 14,Keyboard Assembly,Foxlink Corp,78.22,10581,51,0.084,36,2023-05-01
+T1G-SSD-0232,TitanForce 15 Gaming,SSD Storage,Delta Electronics,160.94,12958,7,0.0241,36,2022-09-06
+AP1-DSP-0233,AeroBook Pro 14,Display Panel,Delta Electronics,48.45,14031,8,0.005,24,2023-05-29
+WEX-CAM-0234,WorkHorse EliteBook X,Webcam Module,Pegatron,193.04,5024,4,0.019,12,2023-07-29
+T1G-CAM-0235,TitanForce 15 Gaming,Webcam Module,Wistron,119.4,17969,14,0.0128,36,2022-12-29
+T1-RAM-0236,TravelLite 12,RAM Module,Wistron,137.34,18787,29,0.038,12,2022-11-01
+T1G-SSD-0237,TitanForce 15 Gaming,SSD Storage,Wistron,154.33,18866,4,0.0058,24,2022-05-05
+WEX-FAN-0238,WorkHorse EliteBook X,Cooling Fan,Wistron,197.9,5299,52,0.0882,12,2022-10-22
+T1-DSP-0239,TravelLite 12,Display Panel,Delta Electronics,81.43,16198,6,0.005,12,2024-04-27
+WEX-RAM-0240,WorkHorse EliteBook X,RAM Module,Delta Electronics,205.8,19729,4,0.0246,12,2022-02-21
+T1-SSD-0241,TravelLite 12,SSD Storage,Foxlink Corp,143.24,15979,39,0.0693,36,2024-02-29
+AA1-MB-0242,AeroBook Air 13,Motherboard,Quanta Computer,212.48,16087,77,0.1574,36,2022-07-24
+T1G-KB-0243,TitanForce 15 Gaming,Keyboard Assembly,Delta Electronics,68.51,19313,63,0.1078,36,2024-01-27
+T1-MB-0244,TravelLite 12,Motherboard,Foxlink Corp,201.6,6260,111,0.1681,24,2024-03-17
+N2-BAT-0245,NimbusPad 2-in-1,Battery,Foxlink Corp,206.56,1727,70,0.1565,24,2023-08-05
+WEX-DSP-0246,WorkHorse EliteBook X,Display Panel,Pegatron,204.83,18302,16,0.005,24,2022-05-18
+WEX-CAM-0247,WorkHorse EliteBook X,Webcam Module,Wistron,65.84,15537,2,0.0297,36,2022-07-10
+AP1-KB-0248,AeroBook Pro 14,Keyboard Assembly,Pegatron,175.64,6250,0,0.014,36,2023-02-20
+N2-KB-0249,NimbusPad 2-in-1,Keyboard Assembly,Quanta Computer,26.39,5107,16,0.0507,24,2022-09-12
+AP1-RAM-0250,AeroBook Pro 14,RAM Module,Wistron,89.32,11301,7,0.0077,36,2024-01-11
+WEX-MB-0251,WorkHorse EliteBook X,Motherboard,Quanta Computer,63.45,4373,71,0.126,24,2022-06-13
+N2-RAM-0252,NimbusPad 2-in-1,RAM Module,Pegatron,154.34,12543,0,0.005,12,2022-08-13
+AA1-CAM-0253,AeroBook Air 13,Webcam Module,Pegatron,40.48,14126,0,0.0194,24,2024-02-15
+WEX-SSD-0254,WorkHorse EliteBook X,SSD Storage,Pegatron,169.51,3182,0,0.0229,24,2023-06-25
+T1-KB-0255,TravelLite 12,Keyboard Assembly,Pegatron,24.56,18445,22,0.0501,12,2023-08-10
+WEX-BAT-0256,WorkHorse EliteBook X,Battery,Pegatron,42.88,7230,42,0.1098,24,2022-04-04
+WEX-CAM-0257,WorkHorse EliteBook X,Webcam Module,Pegatron,179.44,15468,7,0.005,12,2023-07-27
+N2-RAM-0258,NimbusPad 2-in-1,RAM Module,Pegatron,161.34,7640,19,0.005,12,2022-02-16
+N2-KB-0259,NimbusPad 2-in-1,Keyboard Assembly,Quanta Computer,156.48,2761,23,0.0498,12,2022-10-21
+N2-BAT-0260,NimbusPad 2-in-1,Battery,Wistron,171.02,14274,7,0.0982,24,2023-04-05
+N2-FAN-0261,NimbusPad 2-in-1,Cooling Fan,Wistron,25.01,4857,77,0.1696,12,2022-07-02
+WEX-FAN-0262,WorkHorse EliteBook X,Cooling Fan,Foxlink Corp,120.11,613,42,0.107,24,2023-04-20
+T1-FAN-0263,TravelLite 12,Cooling Fan,Delta Electronics,120.77,11842,49,0.1201,24,2022-07-13
+T1-DSP-0264,TravelLite 12,Display Panel,Delta Electronics,14.83,1012,0,0.005,12,2022-03-10
+AP1-MB-0265,AeroBook Pro 14,Motherboard,Foxlink Corp,102.65,8519,28,0.1114,24,2023-03-26
+AA1-SSD-0266,AeroBook Air 13,SSD Storage,Delta Electronics,167.93,9978,13,0.0427,36,2023-08-13
+T1G-KB-0267,TitanForce 15 Gaming,Keyboard Assembly,Delta Electronics,58.22,17580,30,0.1223,24,2022-11-04
+T1G-MB-0268,TitanForce 15 Gaming,Motherboard,Quanta Computer,126.02,6238,36,0.099,36,2023-05-23
+AP1-KB-0269,AeroBook Pro 14,Keyboard Assembly,Quanta Computer,207.62,10944,0,0.035,24,2022-06-02
+T1G-FAN-0270,TitanForce 15 Gaming,Cooling Fan,Wistron,46.98,7884,41,0.0884,36,2022-05-28
+N2-MB-0271,NimbusPad 2-in-1,Motherboard,Quanta Computer,127.23,4893,84,0.1775,12,2022-09-19
+AA1-KB-0272,AeroBook Air 13,Keyboard Assembly,Pegatron,145.1,3529,42,0.1113,36,2024-04-29
+AA1-MB-0273,AeroBook Air 13,Motherboard,Delta Electronics,64.91,2884,42,0.1212,36,2024-01-12
+T1-SSD-0274,TravelLite 12,SSD Storage,Delta Electronics,109.63,1002,19,0.0584,12,2024-01-30
+AP1-CAM-0275,AeroBook Pro 14,Webcam Module,Delta Electronics,201.86,13496,0,0.005,36,2022-11-26
+T1G-FAN-0276,TitanForce 15 Gaming,Cooling Fan,Pegatron,106.85,12284,36,0.0947,24,2023-04-23
+AP1-CAM-0277,AeroBook Pro 14,Webcam Module,Quanta Computer,169.47,10753,14,0.0114,12,2023-07-31
+AA1-BAT-0278,AeroBook Air 13,Battery,Wistron,11.44,14183,19,0.0525,12,2022-07-20
+T1G-SSD-0279,TitanForce 15 Gaming,SSD Storage,Wistron,88.53,11561,13,0.0576,24,2024-01-11
+T1-CAM-0280,TravelLite 12,Webcam Module,Pegatron,105.7,5086,0,0.017,24,2022-07-08
+WEX-MB-0281,WorkHorse EliteBook X,Motherboard,Foxlink Corp,119.08,2089,68,0.1463,24,2022-05-21
+T1-SSD-0282,TravelLite 12,SSD Storage,Wistron,22.41,15442,34,0.0523,12,2023-09-25
+T1-CAM-0283,TravelLite 12,Webcam Module,Foxlink Corp,147.77,13978,30,0.0568,12,2023-06-27
+T1-RAM-0284,TravelLite 12,RAM Module,Delta Electronics,121.58,14609,28,0.0219,12,2022-04-09
+WEX-BAT-0285,WorkHorse EliteBook X,Battery,Wistron,59.09,12114,28,0.0733,24,2022-03-22
+T1G-FAN-0286,TitanForce 15 Gaming,Cooling Fan,Foxlink Corp,105.31,10329,79,0.112,36,2024-05-28
+T1-MB-0287,TravelLite 12,Motherboard,Foxlink Corp,27.82,2338,69,0.1124,36,2022-06-25
+AP1-CAM-0288,AeroBook Pro 14,Webcam Module,Pegatron,187.21,3624,0,0.005,12,2022-08-24
+AA1-CAM-0289,AeroBook Air 13,Webcam Module,Pegatron,65.47,9687,19,0.0605,36,2023-11-05
+AP1-BAT-0290,AeroBook Pro 14,Battery,Delta Electronics,204.9,19735,65,0.0598,36,2024-04-20
+N2-DSP-0291,NimbusPad 2-in-1,Display Panel,Pegatron,71.45,13251,0,0.005,24,2023-01-29
+T1-BAT-0292,TravelLite 12,Battery,Foxlink Corp,175.59,11833,37,0.0855,12,2023-03-24
+AA1-DSP-0293,AeroBook Air 13,Display Panel,Wistron,80.21,13499,0,0.0289,12,2023-10-12
+T1G-CAM-0294,TitanForce 15 Gaming,Webcam Module,Delta Electronics,112.01,14650,30,0.005,36,2023-08-23
+T1-FAN-0295,TravelLite 12,Cooling Fan,Foxlink Corp,26.17,2908,17,0.0706,24,2022-06-07
+N2-BAT-0296,NimbusPad 2-in-1,Battery,Wistron,164.81,670,48,0.0842,24,2023-01-04
+T1G-DSP-0297,TitanForce 15 Gaming,Display Panel,Pegatron,36.09,18677,31,0.0326,24,2022-04-16
+AP1-DSP-0298,AeroBook Pro 14,Display Panel,Quanta Computer,83.03,11130,38,0.0538,12,2022-10-26
+N2-FAN-0299,NimbusPad 2-in-1,Cooling Fan,Pegatron,173.18,8454,33,0.104,36,2022-06-23
+T1-FAN-0300,TravelLite 12,Cooling Fan,Foxlink Corp,43.93,5281,65,0.1072,12,2023-03-22
